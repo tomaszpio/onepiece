@@ -3,10 +3,179 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Dummy Page</title>
+  <title>One Piece Anime – Saga Explorer</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js" integrity="sha512-oLzxJYPD+s/IKvOCOM7rZPaSuiVtw0tF7EfvZWYI9LRBu7VXhFmlJk0ZFvWLLjAUnF0T6kR0XcM6MB0f0fPkxw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --accent: #ff8c00;
+      --bg: #0c1b33;
+      --panel: rgba(255, 255, 255, 0.08);
+      --text: #f5f5f5;
+      --muted: #a3b1c2;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at 10% 20%, rgba(255, 140, 0, 0.2), transparent 35%),
+        radial-gradient(circle at 80% 0%, rgba(0, 188, 255, 0.2), transparent 40%),
+        var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 24px;
+    }
+
+    h1 {
+      margin: 0 0 4px;
+      letter-spacing: 0.04em;
+      font-weight: 800;
+    }
+
+    p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .hero {
+      max-width: 960px;
+    }
+
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin: 16px 0 24px;
+    }
+
+    .pill {
+      padding: 12px 14px;
+      border-radius: 12px;
+      background: var(--panel);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .pill strong {
+      display: block;
+      font-size: 14px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 4px;
+    }
+
+    .pill span {
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    .viz-wrapper {
+      background: rgba(12, 27, 51, 0.6);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 16px;
+      padding: 16px;
+      backdrop-filter: blur(6px);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06), 0 8px 30px rgba(0, 0, 0, 0.3);
+    }
+
+    .legend {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 14px;
+      margin-bottom: 12px;
+    }
+
+    .legend span::before {
+      content: "";
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      margin-right: 6px;
+      vertical-align: -1px;
+    }
+
+    .legend .root::before { background: #ff8c00; }
+    .legend .saga::before { background: #4cc9f0; }
+    .legend .arc::before { background: #a066ff; }
+
+    svg {
+      width: 100%;
+      height: 720px;
+      font-size: 13px;
+    }
+
+    .node circle {
+      stroke: rgba(255, 255, 255, 0.2);
+      stroke-width: 1.5px;
+      cursor: pointer;
+      transition: transform 150ms ease, fill 200ms ease;
+    }
+
+    .node:hover circle {
+      transform: scale(1.06);
+      stroke: #fff;
+    }
+
+    .node text {
+      fill: var(--text);
+      text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .link {
+      fill: none;
+      stroke: rgba(255, 255, 255, 0.18);
+      stroke-width: 1.4px;
+    }
+
+    .tooltip {
+      position: fixed;
+      pointer-events: none;
+      background: #0c1b33;
+      color: #f5f5f5;
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+      font-size: 13px;
+      line-height: 1.4;
+      opacity: 0;
+      transition: opacity 120ms ease;
+      z-index: 10;
+    }
+  </style>
 </head>
 <body>
-  <h1>Welcome to the dummy index page</h1>
-  <p>This placeholder file lives at the project root.</p>
+  <header class="hero">
+    <h1>One Piece Anime – Saga Explorer</h1>
+    <p>Navigate the anime's sagas and arcs with an interactive D3 tree built directly from the structured JSON data.</p>
+    <div class="meta">
+      <div class="pill"><strong>Series</strong><span id="series-name">—</span></div>
+      <div class="pill"><strong>Status</strong><span id="series-status">—</span></div>
+      <div class="pill"><strong>Total Episodes</strong><span id="series-episodes">—</span></div>
+      <div class="pill"><strong>Sagas</strong><span id="series-sagas">—</span></div>
+      <div class="pill"><strong>Arcs</strong><span id="series-arcs">—</span></div>
+    </div>
+  </header>
+
+  <section class="viz-wrapper">
+    <div class="legend">
+      <span class="root">Series</span>
+      <span class="saga">Saga</span>
+      <span class="arc">Arc</span>
+      <span>Click any node to expand or collapse.</span>
+    </div>
+    <svg id="tree"></svg>
+    <div class="tooltip" id="tooltip"></div>
+  </section>
+  <script src="main.js"></script>
 </body>
 </html>
