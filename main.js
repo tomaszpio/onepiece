@@ -153,8 +153,30 @@ function initializeTree(treeData) {
   update(root);
 }
 
-fetch("data/one_piece_anime.json")
-  .then(response => response.json())
+async function loadData() {
+  const sources = [
+    "one_piece_anime.json",
+    "data/one_piece_anime.json"
+  ];
+
+  let lastError;
+
+  for (const source of sources) {
+    try {
+      const response = await fetch(source);
+      if (!response.ok) {
+        throw new Error(`Failed to load ${source}`);
+      }
+      return await response.json();
+    } catch (error) {
+      lastError = error;
+    }
+  }
+
+  throw lastError || new Error("Unable to load data from any source.");
+}
+
+loadData()
   .then(data => {
     const treeData = buildHierarchy(data);
     initializeTree(treeData);
