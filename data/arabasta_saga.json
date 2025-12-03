@@ -1,0 +1,139 @@
+{
+  "series": "One Piece (anime)",
+  "info": {
+    "source": "One Piece Wiki – Episode Guide",
+    "total_episodes": 1151,
+    "status": "ongoing"
+  },
+  "saga": {
+    "id": "arabasta",
+    "name": "Arabasta Saga",
+    "super_saga": "Sea of Survival: Super Rookies Saga",
+    "episode_range": [62, 135],
+    "arcs": [
+      {
+        "id": "reverse_mountain",
+        "name": "Reverse Mountain Arc",
+        "episode_ranges": [[62, 63]],
+        "episodes": [
+          {"id": 62, "title": "The First Obstacle? Giant Whale Laboon Appears", "air_date": "2001-03-21"},
+          {"id": 63, "title": "A Man's Promise! Luffy and the Whale Vow to Meet Again", "air_date": "2001-03-21"}
+        ]
+      },
+      {
+        "id": "whisky_peak",
+        "name": "Whisky Peak Arc",
+        "episode_ranges": [[64, 67]],
+        "episodes": [
+          {"id": 64, "title": "A Pirate-Loving Town? Arrival at Whisky Peak", "air_date": "2001-04-15"},
+          {"id": 65, "title": "Exploding Santoryu! Zoro vs. Baroque Works!", "air_date": "2001-04-15"},
+          {"id": 66, "title": "A Serious Fight! Luffy vs. Zoro: the Baffling Duel!", "air_date": "2001-04-22"},
+          {"id": 67, "title": "Deliver Princess Vivi! Luffy Pirates Depart", "air_date": "2001-04-29"}
+        ]
+      },
+      {
+        "id": "koby_and_helmeppo",
+        "name": "Koby and Helmeppo Arc",
+        "episode_ranges": [[68, 69]],
+        "episodes": [
+          {"id": 68, "title": "Try Hard, Koby! Diary of Koby-Meppo's Marine Struggles", "air_date": "2001-05-13"},
+          {"id": 69, "title": "Koby-Meppo's Determination! Vice Admiral Garp's Fatherly Pride", "air_date": "2001-05-20"}
+        ]
+      },
+      {
+        "id": "little_garden",
+        "name": "Little Garden Arc",
+        "episode_ranges": [[70, 77]],
+        "episodes": [
+          {"id": 70, "title": "Prehistoric Island! The Shadow Lurking in Little Garden!", "air_date": "2001-05-27"},
+          {"id": 71, "title": "Humongous Battle! The Giants Dorry and Brogy!", "air_date": "2001-06-03"},
+          {"id": 72, "title": "Luffy's Anger! A Dirty Trick in a Sacred Battle", "air_date": "2001-06-17"},
+          {"id": 73, "title": "Brogy Wails in Victory! Elbaph's Judgement", "air_date": "2001-06-24"},
+          {"id": 74, "title": "The Devil's Candle! Tears of Regret and Tears of Anger", "air_date": "2001-07-15"},
+          {"id": 75, "title": "Luffy Attacked by Magic! Colors Trap", "air_date": "2001-08-12"},
+          {"id": 76, "title": "Critical Counterattack! Usopp's Quick Wit and Kaenboshi!", "air_date": "2001-08-19"},
+          {"id": 77, "title": "Farewell to the Giants' Island! On to Arabasta", "air_date": "2001-08-19"}
+        ]
+      },
+      {
+        "id": "drum_island",
+        "name": "Drum Island Arc",
+        "episode_ranges": [[78, 91]],
+        "episodes": [
+          {"id": 78, "title": "Nami is Sick? Beyond the Snow that Falls on the Ocean!", "air_date": "2001-08-26"},
+          {"id": 79, "title": "Ambush! The Bliking and Wapol the Blik", "air_date": "2001-09-02"},
+          {"id": 80, "title": "A Doctorless Island? Adventure in the Country Without a Name!", "air_date": "2001-09-09"},
+          {"id": 81, "title": "Ya Happy? The Doctor Who is Called a Witch!", "air_date": "2001-09-16"},
+          {"id": 82, "title": "Dalton's Resolve! Wapol's Forces Land", "air_date": "2001-10-07"},
+          {"id": 83, "title": "Island that Lives in Snow! Ascend The Drum Rockies!", "air_date": "2001-10-07"},
+          {"id": 84, "title": "The Blue-Nosed Reindeer! Chopper's Secret", "air_date": "2001-10-21"},
+          {"id": 85, "title": "Dream of the Outcasts! The Quack Doctor Hiriluk!", "air_date": "2001-10-28"},
+          {"id": 86, "title": "Hiriluk's Cherry Blossoms and Inherited Will!", "air_date": "2001-11-04"},
+          {"id": 87, "title": "Against Wapol's Army Corps! The Abilities of the Baku Baku no Mi!", "air_date": "2001-11-11"},
+          {"id": 88, "title": "Zoan Type Devil's Fruit! Chopper's Seven-Level Transformation", "air_date": "2001-11-18"},
+          {"id": 89, "title": "When the Kingdom's Rule is Over! The Flag of Conviction Lasts Forever", "air_date": "2001-11-25"},
+          {"id": 90, "title": "Hiriluk's Cherry Blossoms! Miracle of the Drum Rockies", "air_date": "2001-12-02"},
+          {"id": 91, "title": "Farewell, Drum Island! I'm Going Out to Sea!", "air_date": "2001-12-09"}
+        ]
+      },
+      {
+        "id": "arabasta_arc",
+        "name": "Arabasta Arc",
+        "episode_ranges": [[92, 130]],
+        "episodes": [
+          {"id": 92, "title": "The Hero of Arabasta and the Ballerina on Deck", "air_date": "2001-12-09"},
+          {"id": 93, "title": "Coming to the Desert Kingdom! The Rain-Calling Powder and the Rebel Army", "air_date": "2001-12-16"},
+          {"id": 94, "title": "Reunion of the Powerful! His Name is Fire Fist Ace", "air_date": "2001-12-23"},
+          {"id": 95, "title": "Ace and Luffy! Warm Memories and Brotherly Bonds", "air_date": "2002-01-06"},
+          {"id": 96, "title": "The Green City, Erumalu and the Kung Fu Dugongs!", "air_date": "2002-01-13"},
+          {"id": 97, "title": "Adventure in the Country of Sand! The Demons that Live in the Scorching Earth", "air_date": "2002-01-20"},
+          {"id": 98, "title": "Here Come the Desert Pirates! The Men Who Live Free", "air_date": "2002-01-27"},
+          {"id": 99, "title": "Spirit of the Fakes! Heart of the Rebel Army, Kamyu!", "air_date": "2002-02-03"},
+          {"id": 100, "title": "Rebel Warrior Koza! The Dream Sworn to Vivi!", "air_date": "2002-02-10"},
+          {"id": 101, "title": "Heat Haze Duel! Ace vs. Scorpion Man", "air_date": "2002-02-17"},
+          {"id": 102, "title": "Ruins and Lost Ways! Vivi, Her Friends, and the Country's Form", "air_date": "2002-02-24"},
+          {"id": 103, "title": "At Spiders Cafe - The Enemy Ringleaders Meet at 8 o'clock", "air_date": "2002-03-03"},
+          {"id": 104, "title": "Luffy vs. Vivi! A Tearful Vow for Comrades", "air_date": "2002-03-10"},
+          {"id": 105, "title": "The Arabasta War Front! City of Dreams, Rainbase", "air_date": "2002-03-17"},
+          {"id": 106, "title": "Trap in a Desperate Situation! Breaking Into Rain Dinners", "air_date": "2002-03-24"},
+          {"id": 107, "title": "Operation Utopia Commences! The Wave of Rebellion Begins to Move", "air_date": "2002-04-14"},
+          {"id": 108, "title": "The Fearsome Bananawani and Mr. Prince", "air_date": "2002-04-21"},
+          {"id": 109, "title": "The Key to Turning the Tide and a Great Escape! Doru Doru Ball!", "air_date": "2002-04-28"},
+          {"id": 110, "title": "Merciless Fight to the Death! Luffy vs. Crocodile", "air_date": "2002-05-05"},
+          {"id": 111, "title": "The Miracle Sprint! Arabasta the Animal Land", "air_date": "2002-05-12"},
+          {"id": 112, "title": "Rebel Army vs. Royal Army! The Battle will be in Alubarna!", "air_date": "2002-05-19"},
+          {"id": 113, "title": "Alubarna is Crying! Fierce Fight of Captain Karoo!", "air_date": "2002-06-02"},
+          {"id": 114, "title": "Swear on Your Crewmate's Dream! Battle at Molehill 4th Avenue", "air_date": "2002-06-09"},
+          {"id": 115, "title": "Today's Grand Performance! Mane Mane Montage!", "air_date": "2002-06-16"},
+          {"id": 116, "title": "Transforming Into Nami! Bon Kurei's Hard-Hitting Ballet Kenpo", "air_date": "2002-06-23"},
+          {"id": 117, "title": "Nami's Whirlwind Warning! Clima-Tact Explosion", "air_date": "2002-06-30"},
+          {"id": 118, "title": "Secret of the Royal Family! The Ancient Weapon, Pluton", "air_date": "2002-07-14"},
+          {"id": 119, "title": "Essence of a Mighty Sword! The Power to Cut Steel and the Breath of All Things", "air_date": "2002-07-21"},
+          {"id": 120, "title": "The Battle is Over! Koza Flies the White Flag", "air_date": "2002-08-04"},
+          {"id": 121, "title": "Vivi's Voice Goes Unheard! A Hero Descends!", "air_date": "2002-08-11"},
+          {"id": 122, "title": "Sand Crocodile and Water Luffy! Death Match: Round 2", "air_date": "2002-08-18"},
+          {"id": 123, "title": "Smells Like Croc! Run to the Tomb of the Royal Family, Luffy!", "air_date": "2002-08-25"},
+          {"id": 124, "title": "The Nightmare Draws Near! Secret Base of the Suna Suna Clan", "air_date": "2002-09-01"},
+          {"id": 125, "title": "Magnificent Wings! My Name is Pell, Guardian Spirit of the Kingdom", "air_date": "2002-09-08"},
+          {"id": 126, "title": "I Will Surpass You! Rain Falls on Arabasta!", "air_date": "2002-09-15"},
+          {"id": 127, "title": "A Farewell to Arms! Pirates and a Little Justice", "air_date": "2002-10-06"},
+          {"id": 128, "title": "The Pirates' Banquet and Operation Escape Arabasta!", "air_date": "2002-10-06"},
+          {"id": 129, "title": "It All Started That Day! Vivi Tells of Her Adventures!", "air_date": "2002-10-20"},
+          {"id": 130, "title": "Beware Her Scent! The Seventh One is Nico Robin!", "air_date": "2002-10-27"}
+        ]
+      },
+      {
+        "id": "post_arabasta",
+        "name": "Post-Arabasta Arc",
+        "episode_ranges": [[131, 135]],
+        "episodes": [
+          {"id": 131, "title": "The First Patient! Anecdote of the Rumble Ball", "air_date": "2002-11-03"},
+          {"id": 132, "title": "The Navigator's Mutiny! For an Unwavering Dream!", "air_date": "2002-11-10"},
+          {"id": 133, "title": "Inherited Recipe! Sanji the Curry Iron Chef", "air_date": "2002-11-17"},
+          {"id": 134, "title": "I'll Make it Bloom! Manly Usopp's Eight-Shaku Balls", "air_date": "2002-11-24"},
+          {"id": 135, "title": "The Fabled Pirate Hunter! Zoro, the Wandering Swordsman", "air_date": "2002-12-01"}
+        ]
+      }
+    ]
+  }
+}
