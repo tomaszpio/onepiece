@@ -1,0 +1,151 @@
+{
+  "series": "One Piece (anime)",
+  "info": {
+    "source": "One Piece Wiki – Episode Guide",
+    "total_episodes": 1151,
+    "status": "ongoing"
+  },
+  "sagas": [
+    {
+      "id": "east_blue",
+      "name": "East Blue Saga",
+      "super_saga": "Sea of Survival: Super Rookies Saga",
+      "episode_range": [1, 61],
+      "arcs": [
+        { "id": "romance_dawn", "name": "Romance Dawn Arc", "episode_ranges": [[1, 3]] },
+        { "id": "orange_town", "name": "Orange Town Arc", "episode_ranges": [[4, 8]] },
+        { "id": "syrup_village", "name": "Syrup Village Arc", "episode_ranges": [[9, 18]] },
+        { "id": "baratie", "name": "Baratie Arc", "episode_ranges": [[19, 30]] },
+        { "id": "arlong_park", "name": "Arlong Park Arc", "episode_ranges": [[31, 45]] },
+        { "id": "buggy_side_story", "name": "Buggy Side Story Arc", "episode_ranges": [[46, 47]] },
+        { "id": "loguetown", "name": "Loguetown Arc", "episode_ranges": [[48, 53]] },
+        { "id": "warship_island", "name": "Warship Island Arc", "episode_ranges": [[54, 61]] }
+      ]
+    },
+    {
+      "id": "arabasta",
+      "name": "Arabasta Saga",
+      "super_saga": "Sea of Survival: Super Rookies Saga",
+      "episode_range": [62, 135],
+      "arcs": [
+        { "id": "reverse_mountain", "name": "Reverse Mountain Arc", "episode_ranges": [[62, 63]] },
+        { "id": "whisky_peak", "name": "Whisky Peak Arc", "episode_ranges": [[64, 67]] },
+        { "id": "koby_and_helmeppo", "name": "Koby and Helmeppo Arc", "episode_ranges": [[68, 69]] },
+        { "id": "little_garden", "name": "Little Garden Arc", "episode_ranges": [[70, 77]] },
+        { "id": "drum_island", "name": "Drum Island Arc", "episode_ranges": [[78, 91]] },
+        { "id": "arabasta_arc", "name": "Arabasta Arc", "episode_ranges": [[92, 130]] },
+        { "id": "post_arabasta", "name": "Post-Arabasta Arc", "episode_ranges": [[131, 135]] }
+      ]
+    },
+    {
+      "id": "sky_island",
+      "name": "Sky Island Saga",
+      "super_saga": "Sea of Survival: Super Rookies Saga",
+      "episode_range": [136, 206],
+      "arcs": [
+        { "id": "goat_island", "name": "Goat Island Arc", "episode_ranges": [[136, 138]] },
+        { "id": "ruluka_island", "name": "Ruluka Island Arc", "episode_ranges": [[139, 143]] },
+        { "id": "jaya", "name": "Jaya Arc", "episode_ranges": [[144, 152]] },
+        { "id": "skypiea", "name": "Skypiea Arc", "episode_ranges": [[153, 195]] },
+        { "id": "g8", "name": "G-8 Arc", "episode_ranges": [[196, 206]] }
+      ]
+    },
+    {
+      "id": "water_7",
+      "name": "Water 7 Saga",
+      "super_saga": "Sea of Survival: Super Rookies Saga",
+      "episode_range": [207, 325],
+      "arcs": [
+        { "id": "long_ring_long_land", "name": "Long Ring Long Land Arc", "episode_ranges": [[207, 219]] },
+        { "id": "oceans_dream", "name": "Ocean's Dream Arc", "episode_ranges": [[220, 224]] },
+        { "id": "foxys_return", "name": "Foxy's Return Arc", "episode_ranges": [[225, 226]] },
+        { "id": "water_7_arc", "name": "Water 7 Arc", "episode_ranges": [[227, 263]] },
+        { "id": "enies_lobby", "name": "Enies Lobby Arc", "episode_ranges": [[264, 312]] },
+        { "id": "post_enies_lobby", "name": "Post-Enies Lobby Arc", "episode_ranges": [[313, 325]] }
+      ]
+    },
+    {
+      "id": "thriller_bark",
+      "name": "Thriller Bark Saga",
+      "super_saga": "Sea of Survival: Super Rookies Saga",
+      "episode_range": [326, 384],
+      "arcs": [
+        { "id": "ice_hunter", "name": "Ice Hunter Arc", "episode_ranges": [[326, 336]] },
+        { "id": "thriller_bark_arc", "name": "Thriller Bark Arc", "episode_ranges": [[337, 381]] },
+        { "id": "spa_island", "name": "Spa Island Arc", "episode_ranges": [[382, 384]] }
+      ]
+    },
+    {
+      "id": "summit_war",
+      "name": "Summit War Saga",
+      "super_saga": "Sea of Survival: Super Rookies Saga",
+      "episode_range": [385, 516],
+      "arcs": [
+        { "id": "sabaody_archipelago", "name": "Sabaody Archipelago Arc", "episode_ranges": [[385, 405]] },
+        { "id": "amazon_lily", "name": "Amazon Lily Arc", "episode_ranges": [[408, 421]] },
+        { "id": "impel_down_part_1", "name": "Impel Down Arc Part 1", "episode_ranges": [[422, 425]] },
+        { "id": "little_east_blue", "name": "Little East Blue Arc", "episode_ranges": [[426, 429]] },
+        { "id": "impel_down_part_2", "name": "Impel Down Arc Part 2", "episode_ranges": [[430, 456]] },
+        { "id": "marineford", "name": "Marineford Arc", "episode_ranges": [[457, 489]] },
+        { "id": "post_war", "name": "Post-War Arc", "episode_ranges": [[490, 516]] }
+      ]
+    },
+    {
+      "id": "fishman_island",
+      "name": "Fish-Man Island Saga",
+      "super_saga": "The Final Sea: The New World Saga",
+      "episode_range": [517, 574],
+      "arcs": [
+        { "id": "return_to_sabaody", "name": "Return to Sabaody Arc", "episode_ranges": [[517, 522]] },
+        { "id": "fishman_island_arc", "name": "Fish-Man Island Arc", "episode_ranges": [[523, 574]] }
+      ]
+    },
+    {
+      "id": "dressrosa",
+      "name": "Dressrosa Saga",
+      "super_saga": "The Final Sea: The New World Saga",
+      "episode_range": [575, 746],
+      "arcs": [
+        { "id": "zs_ambition", "name": "Z's Ambition Arc", "episode_ranges": [[575, 578]] },
+        { "id": "punk_hazard", "name": "Punk Hazard Arc", "episode_ranges": [[579, 625]] },
+        { "id": "caesar_retrieval", "name": "Caesar Retrieval Arc", "episode_ranges": [[626, 628]] },
+        { "id": "dressrosa_arc", "name": "Dressrosa Arc", "episode_ranges": [[629, 746]] }
+      ]
+    },
+    {
+      "id": "whole_cake_island",
+      "name": "Whole Cake Island Saga",
+      "super_saga": "The Final Sea: The New World Saga",
+      "episode_range": [747, 889],
+      "arcs": [
+        { "id": "silver_mine", "name": "Silver Mine Arc", "episode_ranges": [[747, 750]] },
+        { "id": "zou", "name": "Zou Arc", "episode_ranges": [[751, 779]] },
+        { "id": "marine_rookie", "name": "Marine Rookie Arc", "episode_ranges": [[780, 782]] },
+        { "id": "whole_cake_island_arc", "name": "Whole Cake Island Arc", "episode_ranges": [[783, 877]] },
+        { "id": "levely", "name": "Levely Arc", "episode_ranges": [[878, 889]] }
+      ]
+    },
+    {
+      "id": "wano_country",
+      "name": "Wano Country Saga",
+      "super_saga": "The Final Sea: The New World Saga",
+      "episode_range": [890, 1085],
+      "arcs": [
+        { "id": "wano_country_part_1", "name": "Wano Country Arc Part 1", "episode_ranges": [[890, 894]] },
+        { "id": "cidre_guild", "name": "Cidre Guild Arc", "episode_ranges": [[895, 896]] },
+        { "id": "wano_country_part_2", "name": "Wano Country Arc Part 2", "episode_ranges": [[897, 1028]] },
+        { "id": "utas_past", "name": "Uta's Past", "episode_ranges": [[1029, 1030]] },
+        { "id": "wano_country_part_3", "name": "Wano Country Arc Part 3", "episode_ranges": [[1031, 1085]] }
+      ]
+    },
+    {
+      "id": "final_saga",
+      "name": "Final Saga",
+      "super_saga": "The Final Sea: The New World Saga",
+      "episode_range": [1086, null],
+      "arcs": [
+        { "id": "egghead", "name": "Egghead Arc", "episode_ranges": [[1086, null]] }
+      ]
+    }
+  ]
+}

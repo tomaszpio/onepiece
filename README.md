@@ -4,4 +4,5 @@ This repository stores structured data for the One Piece anime episode guide.
 
 ## Data
 
-- `one_piece_anime.json` – JSON listing sagas, arcs, and episode ranges through the latest released episodes.
+- `data/one_piece_anime.json` – JSON listing sagas, arcs, and episode ranges through the latest released episodes.
+
