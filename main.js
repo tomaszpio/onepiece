@@ -185,13 +185,13 @@ function populateFilters(data) {
   sagaFilter.innerHTML = `<option value="">Wszystkie sagi</option>` + data.sagas
     .map(s => `<option value="${s.id}">${s.name}</option>`)
     .join("");
-  arcFilter.innerHTML = `<option value="">Wszystkie luki</option>`;
+  arcFilter.innerHTML = `<option value="">Wszystkie łuki</option>`;
   arcFilter.disabled = true;
 }
 
 function updateArcOptions(selectedSaga) {
   if (!selectedSaga) {
-    arcFilter.innerHTML = `<option value="">Wszystkie luki</option>`;
+    arcFilter.innerHTML = `<option value="">Wszystkie łuki</option>`;
     arcFilter.disabled = true;
     return;
   }
@@ -200,7 +200,7 @@ function updateArcOptions(selectedSaga) {
   const options = saga.arcs
     .map(a => `<option value="${a.id}">${a.name}</option>`)
     .join("");
-  arcFilter.innerHTML = `<option value="">Wszystkie luki</option>${options}`;
+  arcFilter.innerHTML = `<option value="">Wszystkie łuki</option>${options}`;
   arcFilter.disabled = false;
 }
 
@@ -221,7 +221,7 @@ function renderEpisodes() {
     );
   });
 
-  episodeCount.textContent = `${filtered.length} odcinkow`;
+  episodeCount.textContent = `${filtered.length} odcinków`;
 
   const rows = filtered.map(ep => {
     const sagaName = sagaNameById.get(ep.saga) || ep.saga;
@@ -238,7 +238,7 @@ function renderEpisodes() {
     `;
   }).join("");
 
-  episodesTableBody.innerHTML = rows || `<tr><td colspan="6">Brak wynikow.</td></tr>`;
+  episodesTableBody.innerHTML = rows || `<tr><td colspan="6">Brak wyników.</td></tr>`;
 }
 
 function handleArcSelection(arcId) {
