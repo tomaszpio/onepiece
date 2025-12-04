@@ -289,36 +289,36 @@
 
   <section class="section" id="episodes">
     <h2>Episode Browser</h2>
-    <p>Filtruj i przeglądaj wszystkie odcinki: wpisz frazę lub kliknij łuk w drzewie, aby zawęzić wyniki.</p>
+    <p>Filter and browse every episode: type a phrase or click an arc in the tree to narrow the results.</p>
     <div class="filters">
       <div>
-        <label for="search">Szukaj w tytułach</label>
-        <input type="search" id="search" placeholder="np. Luffy, Marineford, Egghead…" />
+        <label for="search">Search titles</label>
+        <input type="search" id="search" placeholder="e.g., Luffy, Marineford, Egghead…" />
       </div>
       <div>
         <label for="saga-filter">Saga</label>
         <select id="saga-filter">
-          <option value="">Wszystkie sagi</option>
+          <option value="">All sagas</option>
         </select>
       </div>
       <div>
-        <label for="arc-filter">Łuk</label>
+        <label for="arc-filter">Arc</label>
         <select id="arc-filter" disabled>
-          <option value="">Wszystkie łuki</option>
+          <option value="">All arcs</option>
         </select>
       </div>
-      <div class="badge" id="episode-count">0 odcinków</div>
+      <div class="badge" id="episode-count">0 episodes</div>
     </div>
     <div class="table-wrap">
       <table id="episodes-table">
         <thead>
           <tr>
             <th>#</th>
-            <th>Tytuł</th>
+            <th>Title</th>
             <th>Romaji</th>
-            <th>Data</th>
+            <th>Air date</th>
             <th>Saga</th>
-            <th>Łuk</th>
+            <th>Arc</th>
           </tr>
         </thead>
         <tbody></tbody>
