@@ -16248,6 +16248,94 @@
       "air_date": "2024-12-15",
       "saga": "final_saga",
       "arc": "egghead"
+    },
+    {
+      "id": 1141,
+      "title": "The Strongest in History! The Five Elders' True Form!",
+      "title_romaji": "Shijō Saikyō! Gorōsei no Shōtai!",
+      "air_date": "2024-12-22",
+      "saga": "final_saga",
+      "arc": "egghead"
+    },
+    {
+      "id": 1142,
+      "title": "The World is Shaking! The Five Elders' Rampage!",
+      "title_romaji": "Sekai ga Yureru! Gorōsei no Dai Bōsō!",
+      "air_date": "2024-12-29",
+      "saga": "final_saga",
+      "arc": "egghead"
+    },
+    {
+      "id": 1143,
+      "title": "The Sun God’s Friends! The Giant Warrior Pirates Arrive!",
+      "title_romaji": "Taiyō-shin no Tomo-tachi! Kyozoku Kaizokudan Tōrai!",
+      "air_date": "2025-01-05",
+      "saga": "final_saga",
+      "arc": "egghead"
+    },
+    {
+      "id": 1144,
+      "title": "The Iron Giant Awakens! The Ancient Robot's Roar!",
+      "title_romaji": "Tetsu no Kyojin Kakusei! Kodai Robotto no Hōkō!",
+      "air_date": "2025-01-12",
+      "saga": "final_saga",
+      "arc": "egghead"
+    },
+    {
+      "id": 1145,
+      "title": "The World is in Chaos! The Five Elders vs. the Straw Hats!",
+      "title_romaji": "Sekai wa Konran! Gorōsei tai Mugiwara Ichimi!",
+      "air_date": "2025-01-19",
+      "saga": "final_saga",
+      "arc": "egghead"
+    },
+    {
+      "id": 1146,
+      "title": "The End of Egghead! The Straw Hats' Great Escape!",
+      "title_romaji": "Egguheddo Shūen! Mugiwara Ichimi Dai Dasshutsu!",
+      "air_date": "2025-01-26",
+      "saga": "final_saga",
+      "arc": "egghead"
+    },
+    {
+      "id": 1147,
+      "title": "The Final Message! Vegapunk’s Will Lives On!",
+      "title_romaji": "Saigo no Dengon! Begapanku no Ishi wa Ikiru!",
+      "air_date": "2025-02-02",
+      "saga": "final_saga",
+      "arc": "egghead"
+    },
+    {
+      "id": 1148,
+      "title": "The World Sinks! The Great Flood Begins!",
+      "title_romaji": "Sekai ga Shizumu! Dai Kōzui Kaishi!",
+      "air_date": "2025-02-09",
+      "saga": "final_saga",
+      "arc": "egghead"
+    },
+    {
+      "id": 1149,
+      "title": "Farewell, Egghead! The Straw Hats Set Sail Again!",
+      "title_romaji": "Saraba Egguheddo! Mugiwara Ichimi Futatabi Shukkō!",
+      "air_date": "2025-02-16",
+      "saga": "final_saga",
+      "arc": "egghead"
+    },
+    {
+      "id": 1150,
+      "title": "The Next Destination! The Elbaf Arc Begins!",
+      "title_romaji": "Tsugi no Mokutekichi! Erubafu-hen Kaimaku!",
+      "air_date": "2025-02-23",
+      "saga": "final_saga",
+      "arc": "elbaf"
+    },
+    {
+      "id": 1151,
+      "title": "Welcome to Elbaf! The Land of the Giants!",
+      "title_romaji": "Yōkoso Erubafu e! Kyojin-tachi no Kuni!",
+      "air_date": "2025-03-02",
+      "saga": "final_saga",
+      "arc": "elbaf"
     }
   ]
 }
