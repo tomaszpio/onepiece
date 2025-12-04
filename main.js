@@ -221,7 +221,7 @@ function renderEpisodes() {
     );
   });
 
-  episodeCount.textContent = `${filtered.length} odcinków`;
+  episodeCount.textContent = `${filtered.length} episodes`;
 
   const rows = filtered.map(ep => {
     const sagaName = sagaNameById.get(ep.saga) || ep.saga;
@@ -238,7 +238,7 @@ function renderEpisodes() {
     `;
   }).join("");
 
-  episodesTableBody.innerHTML = rows || `<tr><td colspan="6">Brak wyników.</td></tr>`;
+  episodesTableBody.innerHTML = rows || `<tr><td colspan="6">No results.</td></tr>`;
 }
 
 function handleArcSelection(arcId) {
