@@ -1,5 +1,11 @@
 const svg = d3.select("#tree");
 const tooltip = d3.select("#tooltip");
+const searchInput = document.getElementById("search");
+const sagaFilter = document.getElementById("saga-filter");
+const arcFilter = document.getElementById("arc-filter");
+const episodeCount = document.getElementById("episode-count");
+const episodesTableBody = document.querySelector("#episodes-table tbody");
+const episodesSection = document.getElementById("episodes");
 const margin = { top: 20, right: 160, bottom: 20, left: 120 };
 const width = 1100;
 const defaultHeight = 720;
@@ -7,6 +13,11 @@ const defaultHeight = 720;
 const colorScale = d3.scaleOrdinal()
   .domain(["root", "saga", "arc"])
   .range(["#ff8c00", "#4cc9f0", "#a066ff"]);
+
+let dataCache = null;
+let sagaNameById = new Map();
+let arcNameById = new Map();
+let arcToSaga = new Map();
 
 function formatRange(range) {
   if (!range || !range.length) return "?";
@@ -25,6 +36,17 @@ function buildHierarchy(data) {
   d3.select("#series-episodes").text(data.info.total_episodes.toLocaleString());
   d3.select("#series-sagas").text(data.sagas.length);
   d3.select("#series-arcs").text(arcsCount);
+
+  // Lookup maps for fast name resolution and filtering.
+  sagaNameById = new Map(data.sagas.map(s => [s.id, s.name]));
+  arcNameById = new Map();
+  arcToSaga = new Map();
+  data.sagas.forEach(saga => {
+    saga.arcs.forEach(arc => {
+      arcNameById.set(arc.id, arc.name);
+      arcToSaga.set(arc.id, saga.id);
+    });
+  });
 
   return {
     name: data.series,
@@ -84,7 +106,13 @@ function initializeTree(treeData) {
       .append("g")
       .attr("class", "node")
       .attr("transform", d => `translate(${source.y0},${source.x0})`)
-      .on("click", (_, d) => toggle(d))
+      .on("click", (event, d) => {
+        if (d.data.type === "arc") {
+          handleArcSelection(d.data.id);
+          return;
+        }
+        toggle(d);
+      })
       .on("mousemove", (event, d) => showTooltip(event, d))
       .on("mouseleave", hideTooltip);
 
@@ -153,6 +181,87 @@ function initializeTree(treeData) {
   update(root);
 }
 
+function populateFilters(data) {
+  sagaFilter.innerHTML = `<option value="">Wszystkie sagi</option>` + data.sagas
+    .map(s => `<option value="${s.id}">${s.name}</option>`)
+    .join("");
+  arcFilter.innerHTML = `<option value="">Wszystkie luki</option>`;
+  arcFilter.disabled = true;
+}
+
+function updateArcOptions(selectedSaga) {
+  if (!selectedSaga) {
+    arcFilter.innerHTML = `<option value="">Wszystkie luki</option>`;
+    arcFilter.disabled = true;
+    return;
+  }
+
+  const saga = dataCache.sagas.find(s => s.id === selectedSaga);
+  const options = saga.arcs
+    .map(a => `<option value="${a.id}">${a.name}</option>`)
+    .join("");
+  arcFilter.innerHTML = `<option value="">Wszystkie luki</option>${options}`;
+  arcFilter.disabled = false;
+}
+
+function renderEpisodes() {
+  if (!dataCache) return;
+
+  const term = searchInput.value.trim().toLowerCase();
+  const sagaId = sagaFilter.value;
+  const arcId = arcFilter.value;
+
+  const filtered = dataCache.episodes.filter(ep => {
+    if (sagaId && ep.saga !== sagaId) return false;
+    if (arcId && ep.arc !== arcId) return false;
+    if (!term) return true;
+    return (
+      ep.title.toLowerCase().includes(term) ||
+      ep.title_romaji.toLowerCase().includes(term)
+    );
+  });
+
+  episodeCount.textContent = `${filtered.length} odcinkow`;
+
+  const rows = filtered.map(ep => {
+    const sagaName = sagaNameById.get(ep.saga) || ep.saga;
+    const arcName = arcNameById.get(ep.arc) || ep.arc;
+    return `
+      <tr>
+        <td class="episode-id">#${ep.id}</td>
+        <td>${ep.title}</td>
+        <td>${ep.title_romaji}</td>
+        <td>${ep.air_date}</td>
+        <td>${sagaName}</td>
+        <td>${arcName}</td>
+      </tr>
+    `;
+  }).join("");
+
+  episodesTableBody.innerHTML = rows || `<tr><td colspan="6">Brak wynikow.</td></tr>`;
+}
+
+function handleArcSelection(arcId) {
+  const sagaId = arcToSaga.get(arcId);
+  if (sagaId) {
+    sagaFilter.value = sagaId;
+    updateArcOptions(sagaId);
+    arcFilter.value = arcId;
+  }
+  renderEpisodes();
+  episodesSection.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function setupFilterEvents() {
+  searchInput.addEventListener("input", renderEpisodes);
+  sagaFilter.addEventListener("change", () => {
+    updateArcOptions(sagaFilter.value);
+    arcFilter.value = "";
+    renderEpisodes();
+  });
+  arcFilter.addEventListener("change", renderEpisodes);
+}
+
 async function loadData() {
   const sources = [
     "one_piece_anime.json",
@@ -178,8 +287,12 @@ async function loadData() {
 
 loadData()
   .then(data => {
+    dataCache = data;
     const treeData = buildHierarchy(data);
     initializeTree(treeData);
+    populateFilters(data);
+    setupFilterEvents();
+    renderEpisodes();
   })
   .catch(error => {
     console.error("Failed to load JSON", error);

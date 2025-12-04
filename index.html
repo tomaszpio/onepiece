@@ -151,6 +151,116 @@
       transition: opacity 120ms ease;
       z-index: 10;
     }
+
+    .section {
+      margin-top: 28px;
+      padding: 18px 20px;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 16px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.25);
+    }
+
+    .section h2 {
+      margin: 0 0 6px;
+      font-size: 22px;
+      letter-spacing: 0.01em;
+    }
+
+    .section p {
+      margin-bottom: 12px;
+    }
+
+    .filters {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      align-items: end;
+      margin-bottom: 14px;
+    }
+
+    label {
+      font-size: 13px;
+      color: var(--muted);
+      display: block;
+      margin-bottom: 6px;
+      letter-spacing: 0.02em;
+    }
+
+    input[type="search"],
+    select {
+      width: 100%;
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      background: rgba(12, 27, 51, 0.55);
+      color: var(--text);
+      font-size: 14px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(255, 140, 0, 0.15);
+      color: #ffc078;
+      border: 1px solid rgba(255, 140, 0, 0.25);
+      font-weight: 700;
+      justify-self: start;
+    }
+
+    .table-wrap {
+      overflow: auto;
+      border-radius: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 720px;
+      background: rgba(12, 27, 51, 0.6);
+    }
+
+    th, td {
+      padding: 10px 12px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    th {
+      font-size: 13px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      background: rgba(255, 255, 255, 0.03);
+      position: sticky;
+      top: 0;
+      backdrop-filter: blur(6px);
+      z-index: 1;
+    }
+
+    tbody tr:nth-child(odd) {
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    tbody tr:hover {
+      background: rgba(255, 140, 0, 0.12);
+    }
+
+    .episode-id {
+      font-variant-numeric: tabular-nums;
+      font-weight: 700;
+      color: #ffd166;
+    }
+
+    @media (max-width: 720px) {
+      body { padding: 16px; }
+      svg { height: 560px; }
+      .table-wrap { border-radius: 10px; }
+    }
   </style>
 </head>
 <body>
@@ -175,6 +285,45 @@
     </div>
     <svg id="tree"></svg>
     <div class="tooltip" id="tooltip"></div>
+  </section>
+
+  <section class="section" id="episodes">
+    <h2>Episode Browser</h2>
+    <p>Filtruj i przegl─ůdaj wszystkie odcinki: wpisz fraz─Ö lub kliknij ┼éuk w drzewie, aby zaw─Özi─ç wyniki.</p>
+    <div class="filters">
+      <div>
+        <label for="search">Szukaj w tytu┼éach</label>
+        <input type="search" id="search" placeholder="np. Luffy, Marineford, Egghead..." />
+      </div>
+      <div>
+        <label for="saga-filter">Saga</label>
+        <select id="saga-filter">
+          <option value="">Wszystkie sagi</option>
+        </select>
+      </div>
+      <div>
+        <label for="arc-filter">┼üuk</label>
+        <select id="arc-filter" disabled>
+          <option value="">Wszystkie ┼éuki</option>
+        </select>
+      </div>
+      <div class="badge" id="episode-count">0 odcink├│w</div>
+    </div>
+    <div class="table-wrap">
+      <table id="episodes-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Tytu┼é</th>
+            <th>Romaji</th>
+            <th>Data</th>
+            <th>Saga</th>
+            <th>┼üuk</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
   </section>
   <script src="main.js"></script>
 </body>
