@@ -1,0 +1,67 @@
+{
+  "saga_name": "Sky Island Saga",
+  "japanese_name": "Skypiea-hen",
+  "overall_summary": "Ta saga prowadzi Słomkowych Kapeluszy na legendarne niebiańskie wyspy. W trakcie przygotowań do lotu na Jaya załoga poznaje historię Mont Blanca Nolana i wchodzi w konflikt z Bellamym oraz pewnym tajemniczym piratem imieniem Blackbeard. Dzięki wskazówkom pozyskanym na Jaya wyruszają w niebo, gdzie odkrywają wyspę Skypiea. Tam angażują się w wojnę między Skypieanami, Szandianami i samozwańczym bogiem Enelem, a także odkrywają zaginione miasto złota.",
+  "arcs": [
+    {
+      "id": 1,
+      "name": "Jaya Arc",
+      "anime_episodes": "144–152",
+      "manga_chapters": "218–236",
+      "main_locations": [
+        "Wyspa Jaya",
+        "Mock Town",
+        "Knock Up Stream"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Chopper",
+        "Robin",
+        "Mont Blanc Cricket",
+        "Bellamy",
+        "Blackbeard"
+      ],
+      "summary": "Załoga dociera na piracką wyspę Jaya, gdzie szydzi się z marzycieli wierzących w Sky Island. Luffy odmawia walki z Bellamym, dopóki ten nie okrada sprzymierzeńców – wtedy nokautuje go jednym ciosem. Poznają Mont Blanca Cricketa, potomka słynnego Nolana, który pomaga im przygotować statek na eksplozję gigantycznego gejzeru Knock Up Stream. Spotykają też tajemniczego Blackbearda, który wygłasza monolog o marzeniach.",
+      "key_events": [
+        "Luffy znosi prowokacje Bellamy’ego, by następnie zadać mu jeden decydujący cios, pokazując swoją wytrwałość.",
+        "Sojusz z Crickett’em i jego Saruyama Alliance w celu przygotowania Going Merry na lot do nieba.",
+        "Pierwsze spotkanie z Marshallem D. Teachem (Blackbeardem) i jego poglądami na marzenia."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Skypiea Arc",
+      "anime_episodes": "153–195",
+      "manga_chapters": "237–302",
+      "main_locations": [
+        "Skypiea (Biała Wyspa)",
+        "Upper Yard",
+        "Shandora"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Chopper",
+        "Robin",
+        "Gan Fall",
+        "Conis",
+        "Enel (Eneru)",
+        "Wyper",
+        "Szandianie"
+      ],
+      "summary": "W niebiańskiej Skypiei Słomkowi muszą zapłacić „opłatę wstępu” i zostają uznani za przestępców. Okazuje się, że terytorium Upper Yard to zaginiona stolica Shandora. Bohaterowie wplątują się w wojnę między Niebianami, wojownikami Shandian i okrutnym bogiem Enelem, który planuje zniszczyć całą wyspę i udać się na księżyc. Luffy wykorzystuje swoje gumowe ciało, by zneutralizować błyskawice Enele’a, bije złoty dzwon i przekazuje potomkom Nolana, że historia o złotej wyspie była prawdziwa. Ostatecznie załoga wraca na morze z częścią skarbów.",
+      "key_events": [
+        "Poznanie technologii Diali oraz pojęcia Mantra (Obserwacyjny Haki), z którego korzystają wojownicy Skypiei.",
+        "Luffy pokonuje Enele’a dzięki swojej odporności na elektryczność i zapala Złoty Dzwon, by przesłać sygnał Mont Blanc Crickettowi.",
+        "Robin odkrywa kolejny Poneglyph, ujawniający starożytne informacje o broni Poseidon."
+      ]
+    }
+  ]
+}

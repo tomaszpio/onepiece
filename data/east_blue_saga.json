@@ -1,0 +1,169 @@
+{
+  "saga_name": "Saga East Blue",
+  "japanese_name": "East Blue-hen",
+  "overall_summary": "Pierwsza saga One Piece pokazuje początek podróży Luffy’ego i formowanie załogi. Luffy, zainspirowany przez Shanksa, wyrusza z rodzinnej wioski, aby zostać Królem Piratów. Na przestrzeni kilku niezależnych przygód w East Blue gromadzi pierwszych członków załogi — Zoro, Nami, Usoppa i Sanjiego — stawiając czoła różnym piratom, łowcom nagród i marines. Saga kończy się wizytą w Loguetown, mieście narodzin i egzekucji Gol D. Rogera, skąd załoga wyrusza w stronę Grand Line.",
+  "arcs": [
+    {
+      "id": 1,
+      "name": "Romance Dawn Arc",
+      "anime_episodes": "1–4",
+      "manga_chapters": "1–7",
+      "main_locations": [
+        "Foosha Village (Dawn Island)",
+        "Statek Alvidy",
+        "Shells Town",
+        "Morze East Blue"
+      ],
+      "key_characters": [
+        "Monkey D. Luffy",
+        "Shanks",
+        "Coby",
+        "Alvida",
+        "Higuma",
+        "Roronoa Zoro"
+      ],
+      "summary": "W prologu poznajemy Luffy’ego, który przez przypadek zjada Gomu Gomu no Mi i staje się człowiekiem-gumą. Chłopiec przyjaźni się z Red Hair Pirates, a Shanks ratuje mu życie, tracąc przy tym rękę. Dziesięć lat później Luffy opuszcza rodzinną Foosha Village, uwalnia Coby’ego z niewoli u piratki Alvidy i w Shells Town werbuje słynnego łowcę piratów Roronoę Zoro.",
+      "key_events": [
+        "Luffy zjada owoc Gomu Gomu no Mi, zyskując gumowe moce.",
+        "Shanks oddaje Luffy’emu słomkowy kapelusz jako symbol przyszłej obietnicy.",
+        "Roronoa Zoro dołącza do Luffy’ego po uwolnieniu w Shells Town.",
+        "Luffy rozpoczyna podróż, zapowiadając, że zostanie Królem Piratów."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Orange Town Arc",
+      "anime_episodes": "4–8",
+      "manga_chapters": "8–21",
+      "main_locations": [
+        "Orange Town"
+      ],
+      "key_characters": [
+        "Monkey D. Luffy",
+        "Roronoa Zoro",
+        "Buggy",
+        "Nami",
+        "Mohji",
+        "Cabaji"
+      ],
+      "summary": "Luffy i Zoro trafiają do Orange Town, gdzie walczą z klaunem Buggy’em, piratem mającym moc rozdzielania ciała dzięki Bara Bara no Mi. Tam poznają Namii — złodziejkę okradającą piratów, która początkowo oszukuje bohaterów, ale ostatecznie pomaga im pokonać Buggy’ego i jego załogę.",
+      "key_events": [
+        "Walka z Buggy’em i jego ekipą zakończona zwycięstwem Luffy’ego.",
+        "Nami zawiera tymczasowe przymierze z Luffym jako nawigatorka, ukrywając własne motywy.",
+        "Orange Town zostaje uwolnione spod władzy piratów Buggy’ego."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Syrup Village Arc",
+      "anime_episodes": "9–18",
+      "manga_chapters": "22–41",
+      "main_locations": [
+        "Syrup Village",
+        "Statek Kuroneko Pirates"
+      ],
+      "key_characters": [
+        "Monkey D. Luffy",
+        "Roronoa Zoro",
+        "Nami",
+        "Usopp",
+        "Kaya",
+        "Captain Kuro",
+        "Jango"
+      ],
+      "summary": "Załoga dociera do Syrrop Village, gdzie poznaje Usoppa — kłamczucha, który marzy o byciu piratem. Odkrywają, że lokaj Klahadore jest w rzeczywistości piratem Kuro, planującym zabić chorą dziedziczkę Kayę i przejąć jej majątek. Luffy, Zoro i Nami pomagają Usoppowi udaremnić plan Kuro i jego Czarnych Kotów, a Usopp postanawia wyruszyć z nimi na morze.",
+      "key_events": [
+        "Obnażenie tożsamości Klahadore jako kapitana Kuro.",
+        "Bitwa na wzgórzu Syrup i pokonanie piratów Kuroneko.",
+        "Usopp dołącza do załogi jako strzelec.",
+        "Kaya przekazuje załodze pierwszy statek — Going Merry."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Baratie Arc",
+      "anime_episodes": "19–30",
+      "manga_chapters": "42–68",
+      "main_locations": [
+        "Pływająca restauracja Baratie",
+        "Morze East Blue"
+      ],
+      "key_characters": [
+        "Monkey D. Luffy",
+        "Roronoa Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Zeff",
+        "Don Krieg",
+        "Gin",
+        "Dracule Mihawk"
+      ],
+      "summary": "Załoga zatrzymuje się w pływającej restauracji Baratie, by znaleźć kucharza. Tam poznają Sanjiego, który marzy o odnalezieniu legendarnego All Blue. Restauracja zostaje zaatakowana przez flotę Dona Kriega, a w trakcie zamieszania pojawia się Mihawk, który miażdży Zoro i ujawnia przepaść między nim a najlepszym szermierzem świata. Luffy i Sanji bronią Baratie, a ostatecznie Sanji dołącza do załogi jako kucharz.",
+      "key_events": [
+        "Mihawk pokonuje Zoro, co wzmaga jego determinację, by stać się najlepszym szermierzem.",
+        "Konflikt z Donem Kriegiem zakończony zwycięstwem Luffy’ego i sprzymierzeńców.",
+        "Sanji opuszcza Baratie i dołącza do załogi Słomkowych Kapeluszy.",
+        "Załoga kieruje się w stronę Grand Line."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Arlong Park Arc",
+      "anime_episodes": "31–44",
+      "manga_chapters": "69–95",
+      "main_locations": [
+        "Wioska Cocoyasi",
+        "Arlong Park"
+      ],
+      "key_characters": [
+        "Monkey D. Luffy",
+        "Roronoa Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Arlong",
+        "Genzo",
+        "Nojiko",
+        "Nezumi"
+      ],
+      "summary": "Nami ucieka ze statkiem i skarbami do rodzinnej wioski Cocoyasi, zniewolonej przez ryboludzi Arlonga. Okazuje się, że Nami od lat pracuje jako kartograf dla Arlonga, aby zebrać pieniądze na wykupienie wioski. Kiedy skorumpowany marine Nezumi konfiskuje jej oszczędności, Nami załamuje się i prosi Luffy’ego o pomoc. Załoga rozprawia się z Arlongiem i jego załogą, niszcząc Arlong Park i uwalniając wioskę, a Nami oficjalnie zostaje nawigatorką Słomkowych Kapeluszy.",
+      "key_events": [
+        "Ujawnienie tragicznej przeszłości Nami i śmierci jej przybranej matki Belle-mère.",
+        "Luffy symbolicznie oddaje swój słomkowy kapelusz Nami, akceptując ją jako członka załogi.",
+        "Bitwa w Arlong Park zakończona zniszczeniem fortecy Arlonga.",
+        "Nami definitywnie dołącza do załogi jako nawigatorka."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Loguetown Arc",
+      "anime_episodes": "45, 48–53",
+      "manga_chapters": "96–100",
+      "main_locations": [
+        "Loguetown",
+        "Wieża egzekucji Gold Rogera"
+      ],
+      "key_characters": [
+        "Monkey D. Luffy",
+        "Roronoa Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Smoker",
+        "Tashigi",
+        "Buggy",
+        "Alvida",
+        "Dragon"
+      ],
+      "summary": "Załoga dociera do Loguetown, miasta narodzin i egzekucji Króla Piratów Gol D. Rogera. Luffy chce zobaczyć miejsce egzekucji, ale w mieście pojawiają się starzy wrogowie Buggy i Alvida oraz nowy przeciwnik — kapitan Smoker, posiadacz mocy Logia. Luffy zostaje schwytany i ma być stracony na oczach tłumu, jednak niespodziewana burza uderza w szafot i ratuje mu życie. Załoga ucieka przed Smokiem i wyrusza w kierunku Reverse Mountain, by wkroczyć na Grand Line.",
+      "key_events": [
+        "Załoga zaopatruje się w Loguetown przed podróżą na Grand Line.",
+        "Luffy zostaje pojmany na miejscu egzekucji Gol D. Rogera.",
+        "Burza uderza w szafot, ratując Luffy’emu życie.",
+        "Pierwsze starcie z kapitanem Smokerem i pojawienie się tajemniczego rewolucjonisty Dragona.",
+        "Załoga opuszcza East Blue, wyruszając na Grand Line przez Reverse Mountain."
+      ]
+    }
+  ]
+}

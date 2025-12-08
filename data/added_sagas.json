@@ -1,0 +1,342 @@
+[
+  {
+    "saga_name": "Alabasta Saga",
+    "japanese_name": "Arabasta-hen",
+    "overall_summary": "Saga ta rozpoczyna przygodę Słomkowych Kapeluszy w Grand Line. Wspinają się na Reverse Mountain, by wejść na Wielką Linię, gdzie po raz pierwszy stykają się z organizacją Baroque Works. W kolejnych przygodach gromadzą nowego członka załogi (Chopper), odwiedzają wyspy Whisky Peak, Little Garden i Drum Island, a następnie przemierzają pustynną krainę Alabasta, aby pomóc księżniczce Vivi powstrzymać rebeliancką wojnę wywołaną przez Shichibukai Crocodile i jego syndykat.",
+    "arcs": [
+      {
+        "id": 1,
+        "name": "Reverse Mountain Arc",
+        "anime_episodes": "62–63",
+        "manga_chapters": "101–105",
+        "main_locations": ["Reverse Mountain", "Twin Cape"],
+        "key_characters": ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Vivi (Miss Wednesday)", "Mr. 9", "Crocus", "Laboon"],
+        "summary": "Załoga wchodzi na Grand Line wspinając się na Reverse Mountain, spotyka wieloryba Laboon i doktora Crocusa oraz starcie z agentami Baroque Works (Mr. 9 i Miss Wednesday), którzy w rzeczywistości są księżniczką Vivi i Igaramem w przebraniu.",
+        "key_events": ["Przeprawa przez niebezpieczny kanał Reverse Mountain.", "Przyrzeczenie powrotu do Laboon po osiągnięciu zamierzonego celu.", "Wprowadzenie organizacji Baroque Works i księżniczki Vivi."]
+      },
+      {
+        "id": 2,
+        "name": "Whisky Peak Arc",
+        "anime_episodes": "64–67",
+        "manga_chapters": "106–114",
+        "main_locations": ["Whisky Peak"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Vivi", "Igaram", "Mr. 5", "Miss Valentine"],
+        "summary": "Słomkowi przybywają do miasta pełnego gościnnych mieszkańców, które okazuje się bazą łowców nagród z Baroque Works. Zoro pokonuje setkę napastników, Luffy i Zoro kłócą się na temat ataku, a Vivi ujawnia prawdziwy cel Baroque Works i prosi o eskortę do Alabasty.",
+        "key_events": ["Zoro eliminuje 100 łowców nagród w pojedynkę.", "Odkrycie hierarchii Baroque Works i ujawnienie tożsamości Vivi.", "Igaram symuluje jej ucieczkę, by odwrócić uwagę Crocodile’a."]
+      },
+      {
+        "id": 3,
+        "name": "Little Garden Arc",
+        "anime_episodes": "70–77",
+        "manga_chapters": "115–129",
+        "main_locations": ["Little Garden (prehistoriczna wyspa)"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Vivi", "Dorry", "Brogy", "Mr. 3", "Miss Goldenweek"],
+        "summary": "Załoga dociera na prehistoryczną wyspę, na której od stu lat walczą ze sobą giganci Dorry i Brogy. Gdy agenci Baroque Works zastawiają pułapkę, Słomkowi pomagają gigantom przetrwać i zdobywają wieczystą pose na Alabastę.",
+        "key_events": ["Przyjaźń Luffy’ego z gigantami i dowcipna historia Nolana Kłamcy.", "Pokonanie Mr. 3 i jego woskowych pułapek.", "Zdobycie wieczystej posy prowadzącej do Alabasty."]
+      },
+      {
+        "id": 4,
+        "name": "Drum Island Arc",
+        "anime_episodes": "78–91",
+        "manga_chapters": "130–154",
+        "main_locations": ["Drum Island", "Śnieżne góry Drum"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Vivi", "Tony Tony Chopper", "Dr. Kureha", "Wapol"],
+        "summary": "Kiedy Nami poważnie choruje, załoga szuka lekarza na zimowej Drum Island. Spotykają dr Kurehę i renifera Choppera, który pragnie zostać lekarzem. Władca Wapol wraca z wygnania, by odzyskać władzę, ale zostaje pokonany przez Luffy’ego i Choppera, który w rezultacie dołącza do załogi.",
+        "key_events": ["Poznanie przeszłości Choppera i dr Hiriluka.", "Walka z Wapolem oraz jego mocom Baku Baku no Mi.", "Chopper zostaje lekarzem Słomkowych Kapeluszy."]
+      },
+      {
+        "id": 5,
+        "name": "Alabasta Arc",
+        "anime_episodes": "92–130",
+        "manga_chapters": "155–217",
+        "main_locations": ["Alabasta (Królestwo pustynne)", "Rainbase", "Alubarna"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Vivi", "Nico Robin (Miss All Sunday)", "Crocodile", "Baroque Works", "Carue", "Koza"],
+        "summary": "Słomkowi przemierzają pustynną Alabastę, by powstrzymać wojnę domową podsycaną przez Crocodile’a. Starcia z elitarnymi agentami Baroque Works prowadzą do kilku porażek Luffy’ego z Crocodilem, lecz ostatecznie kapitan pokonuje go w Alubarnie. Vivi decyduje się pozostać w kraju, a tajemnicza Nico Robin, dotychczasowa zastępczyni Crocodile’a, dołącza do załogi.",
+        "key_events": ["Bitwa w Rainbase i pierwsza porażka Luffy’ego z Crocodilem.", "Odkrycie tajemnicy starożytnej broni Pluton.", "Ostateczne starcie Luffy’ego z Crocodilem w podziemiach Alubarni, które kończy się upadkiem Baroque Works.", "Vivi żegna się z załogą, a Nico Robin wsiada na pokład jako archeolog."]
+      }
+    ]
+  },
+  {
+    "saga_name": "Sky Island Saga",
+    "japanese_name": "Skypiea-hen",
+    "overall_summary": "Saga skupia się na poszukiwaniu legendarnej wyspy w chmurach. Na wyspie Jaya załoga poznaje historię o Nolandzie Kłamcy, zyskuje sojuszników i wyrusza w niebo. W Skypiea angażują się w konflikt między Skypieanami, wojownikami Shandian i samozwańczym bogiem Enelem, odkrywając złote miasto Shandora i bijąc dzwon, by wysłać sygnał w dół.",
+    "arcs": [
+      {
+        "id": 1,
+        "name": "Jaya Arc",
+        "anime_episodes": "144–152",
+        "manga_chapters": "218–236",
+        "main_locations": ["Jaya (Mock Town)", "Monkey Mountain", "Knock Up Stream"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Nico Robin", "Mont Blanc Cricket", "Bellamy", "Blackbeard"],
+        "summary": "Poszukując drogi do nieba, Słomkowi odwiedzają piracką wyspę Jaya, gdzie poznają Mont Blanca Cricketa, potomka legendarnego odkrywcy. Konfrontują się z Bellamym i jego załogą, spotykają tajemniczego Blackbearda oraz zdobywają wieści o ogromnym gejzerze Knock Up Stream, dzięki któremu docierają do Skypiei.",
+        "key_events": ["Luffy znosi upokorzenia, by nie wszczynać bójek, ale w końcu nokautuje Bellamy’ego jednym ciosem.", "Sojusz z Saruyama Alliance (Cricket i małpy) w celu przygotowania statku do lotu.", "Pierwsze spotkanie z Marshallem D. Teachem (Blackbeardem)."]
+      },
+      {
+        "id": 2,
+        "name": "Skypiea Arc",
+        "anime_episodes": "153–195",
+        "manga_chapters": "237–302",
+        "main_locations": ["Skypiea (Biała Wyspa)", "Upper Yard", "Niebiańskie Morze"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Gan Fall", "Conis", "Enel", "Wyper", "Shandianie"],
+        "summary": "Słomkowi docierają do Skypiei, gdzie popadają w konflikt z mieszkańcami i tyranem Enelem. Odkrywają, że Upper Yard to zaginiona złota wyspa Shandora, a dzwon odziedziczony po Nolandzie Kłamcy jest kluczem do przekazania wiadomości w dół. Luffy dzięki gumowym właściwościom ciała pokonuje Enela, ratując wyspę przed zagładą.",
+        "key_events": ["Zastosowanie diali i pojawienie się pojęcia Mantra (obserwacyjny Haki).", "Pokonanie Enele’a i wybicie Złotego Dzwonu, by przekazać sygnał Mont Blanc Cricketowi.", "Robin odkrywa kolejny Poneglyph i informacje o broni Poseidon."]
+      }
+    ]
+  },
+  {
+    "saga_name": "Water Seven Saga",
+    "japanese_name": "Water Seven-hen",
+    "overall_summary": "Saga rozpoczyna się humorystycznym pojedynkiem Davy Back Fight, ale szybko nabiera poważnego tonu. W Water 7 załoga próbuje naprawić zniszczony statek, co prowadzi do sporów i odejścia Usoppa. Porwanie Nico Robin przez tajną agencję CP9 zmusza Słomkowych do szturmu na Enies Lobby, gdzie wypowiadają wojnę rządowi światowemu. Po powrocie do Water 7 otrzymują nowy okręt Thousand Sunny i wyruszają w dalszą podróż.",
+    "arcs": [
+      {
+        "id": 1,
+        "name": "Long Ring Long Land Arc",
+        "anime_episodes": "207–219",
+        "manga_chapters": "303–321",
+        "main_locations": ["Long Ring Long Land"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Foxy", "Aokiji"],
+        "summary": "Załoga bierze udział w serii absurdalnych gier Davy Back Fight z piratem Foxym, których stawką są członkowie załóg. Po wygranej poznają admirała Aokijiego, który okazuje się dawnym towarzyszem Garpia; jego lodowe moce niemal kończą podróż Luffy’ego.",
+        "key_events": ["Gry Davy Back Fight (wyścigi, Groggy Ring, Pirate Dodgeball) i pojawienie się Afro Luffy’ego.", "Debiut admirała Aokijiego i demonstracja lodowych mocy.", "Aokiji daje załodze ultimatum, ale ostatecznie ich oszczędza."]
+      },
+      {
+        "id": 2,
+        "name": "Water 7 Arc",
+        "anime_episodes": "229–263",
+        "manga_chapters": "322–374",
+        "main_locations": ["Miasto wodne Water 7", "Galley-La Company", "Franky House"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Iceburg", "Pauly", "Rob Lucci", "Kaku"],
+        "summary": "Na wyspie Water 7 załoga spotyka stoczniowców Galley-La i złodziejski gang rodziny Franky’ego. Kradzież funduszy na naprawę powoduje kłótnię, a gdy Luffy decyduje o porzuceniu zniszczonego Going Merry, Usopp odchodzi. Wkrótce Iceburg zostaje zaatakowany, Robin znika, a ujawnia się tajna agencja CP9. Luffy i pozostali muszą zmierzyć się z utratą statku oraz zdradą.",
+        "key_events": ["Usopp kwestionuje decyzję o wymianie statku i wyzywa Luffy’ego na pojedynek.", "CP9 ujawnia się jako zabójcy z rządu, a Robin znika z niewyjaśnionych powodów.", "Wprowadzenie Franky’ego i jego tragiczną przeszłość z pociągiem morskim."]
+      },
+      {
+        "id": 3,
+        "name": "Enies Lobby Arc",
+        "anime_episodes": "264–290 i 293–312",
+        "manga_chapters": "375–430",
+        "main_locations": ["Enies Lobby", "Sea Train (Puffing Tom)", "Tower of Justice"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp (Sogeking)", "Sanji", "Chopper", "Robin", "Franky", "CP9 (Rob Lucci, Kaku, Kalifa, Jabra)", "Galley-La i Rodzina Franky’ego"],
+        "summary": "Słomkowi, Franky Family i stoczniowcy pędzą pociągiem morskim do Enies Lobby, by uratować Nico Robin i Franky’ego z rąk CP9. Podczas szturmu Luffy wypowiada wojnę rządowi światowemu, a każdy członek załogi walczy z jednym z agentów CP9. Robin krzyczy \"Chcę żyć!\", co motywuje przyjaciół do dalszej walki. Po pokonaniu Roba Lucciego i zniszczeniu sądu rozpoczyna się Buster Call. Uratowani wypływają, ale Going Merry rozpada się i otrzymuje honorowy pogrzeb. Franky ostatecznie dołącza do załogi.",
+        "key_events": ["Luffy po raz pierwszy używa Gear Second i Gear Third.", "Sogeking (Usopp w przebraniu) podpala flagę rządu, symbolicznie deklarując wojnę.", "Robin wyznaje chęć życia, a Merry żegna się z załogą w wzruszającej scenie."]
+      },
+      {
+        "id": 4,
+        "name": "Post-Enies Lobby (Return to Water 7)",
+        "anime_episodes": "313–325",
+        "manga_chapters": "431–441",
+        "main_locations": ["Water 7", "Thousand Sunny"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Iceburg", "Monkey D. Garp", "Koby", "Portgas D. Ace (we wspomnieniach)"],
+        "summary": "Po bitwie załoga odpoczywa w Water 7. Luffy spotyka dziadka Garpia, który ujawnia, że jego ojciec to lider Rewolucjonistów Dragon. Franky konstruuje nowy okręt Thousand Sunny. Usopp błaga o powrót i zostaje przyjęty z powrotem. Załoga otrzymuje nowe listy gończe i przygotowuje się do wypłynięcia w dalszą podróż.",
+        "key_events": ["Zawiązanie nowych więzi rodzinnych — ujawnienie Garpia i Dragona.", "Budowa i nazwanie statku Thousand Sunny.", "Decyzja o wyruszeniu na Fish-Man Island, kończąc sagę Water Seven."]
+      }
+    ]
+  },
+  {
+    "saga_name": "Thriller Bark Saga",
+    "japanese_name": "Thriller Bark-hen",
+    "overall_summary": "Jedyna saga z pojedynczym arkiem, w której Słomkowi wkraczają do Florian Triangle i spotykają się z marynarskimi legendami oraz zombie. Przedstawia postać muzyka Brook’a, następnego członka załogi, oraz wojennego Warlorda Gecko Morię. Po odzyskaniu swoich cieni i pokonaniu zombi, załoga zmierza ku archipelagowi Sabaody.",
+    "arcs": [
+      {
+        "id": 1,
+        "name": "Thriller Bark Arc",
+        "anime_episodes": "337–381",
+        "manga_chapters": "442–489",
+        "main_locations": ["Thriller Bark", "Florian Triangle"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Brook", "Gecko Moria", "Perona", "Oars", "Bartholomew Kuma"],
+        "summary": "Załoga trafia na ogromny statek-wyspę Thriller Bark pełen zombie. W trakcie eksploracji poznają żyjącego szkieleta Brook’a, który szuka utraconego cienia. Warlord Gecko Moria kradnie cienie załodze, tworząc gigantycznego zombie Oarsa. Luffy używa mocy Nightmare Luffy, by go pokonać. Po zwycięstwie pojawia się Bartholomew Kuma z rozkazem zgładzenia załogi; Zoro poświęca się, by przyjąć ból Luffy’ego, a \"nic się nie wydarzyło\". Brook odzyskuje swój cień i dołącza jako muzyk.",
+        "key_events": ["Spotkanie i rekrutacja Brook’a, dzięki czemu załoga ma muzyka.", "Luffy jako Nightmare Luffy pokonuje Oarsa i Morię.", "Zoro przyjmuje całą ranę Luffy’ego od Kumy, wypowiadając legendarną kwestię \"Nic się nie stało\"."]
+      }
+    ]
+  },
+  {
+    "saga_name": "Summit War Saga",
+    "japanese_name": "Kessen Kohen",
+    "overall_summary": "Saga Kulminacyjnej Wojny jest jednym z najbardziej dramatycznych segmentów historii. Po przygodzie na Sabaody załoga zostaje brutalnie rozdzielona przez Bartholomew Kumę. Luffy przenosi się na kobiecą wyspę Amazon Lily, z której wyrusza na misję ratowania brata Ace’a. Jego desperackie próby prowadzą go przez więzienie Impel Down, a następnie do największej wojny w historii — bitwy w Marineford między piratami Whitebearda a Marynarką. Po wojnie świat pogrąża się w chaosie, a Luffy postanawia wzmocnić się podczas dwuletniej przerwy.",
+    "arcs": [
+      {
+        "id": 1,
+        "name": "Sabaody Archipelago Arc",
+        "anime_episodes": "385–405",
+        "manga_chapters": "490–513",
+        "main_locations": ["Archipelag Sabaody", "Dom Aukcyjny", "Shakky’s Rip-off Bar"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Brook", "Camie", "Hatchan", "Silvers Rayleigh", "Kizaru", "Sentomaru", "Bartholomew Kuma", "Dziesięciu Supernowych"],
+        "summary": "Załoga przypływa na Archipelag Sabaody, by pokryć statek żywicą i zejść na dno do Fish-Man Island. Ratują syrenę Camie z rąk handlarzy niewolnikami, co kończy się uderzeniem boskiego Smoka i przybyciem admirała Kizaru. Po serii starć Bartholomew Kuma używa swojej mocy Paw-Paw Fruit, by rozproszyć każdego członka załogi w inne miejsce na świecie.",
+        "key_events": ["Luffy uderza Tenryūbito (Niebiańskiego Smoka), rozpoczynając konflikt z Marins.", "Pierwsze spotkanie z Silvers Rayleighiem, byłym prawą ręką Gol D. Rogera.", "Kuma rozdziela całą załogę, rozpoczynając dwuletnie rozstanie."]
+      },
+      {
+        "id": 2,
+        "name": "Amazon Lily Arc",
+        "anime_episodes": "408–421",
+        "manga_chapters": "514–524",
+        "main_locations": ["Amazon Lily", "Kuja", "Hardshell Isle"],
+        "key_characters": ["Luffy", "Boa Hancock", "Boa Sandersonia", "Boa Marigold", "Gloriosa (Elder Nyon)"],
+        "summary": "Luffy trafia na wyspę Amazon Lily zamieszkaną przez wojownicze piratki Kuja. Po początkowych nieporozumieniach zjednuje sobie serce cesarzowej Hancoki. Dowiaduje się o planowanej egzekucji Ace’a i postanawia ruszyć na jego ratunek. Hancock zgadza się pomóc mu w sekretnym przemycie do Impel Down.",
+        "key_events": ["Luffy po raz pierwszy wykorzystuje Conqueror’s Haki, powalając walkirię Kuja.", "Wprowadzenie Boa Hancock — Shichibukai, która zakochuje się w Luffym.", "Decyzja o wyruszeniu do Impel Down w celu ratowania Ace’a."]
+      },
+      {
+        "id": 3,
+        "name": "Impel Down Arc",
+        "anime_episodes": "422–425 i 430–452",
+        "manga_chapters": "525–549",
+        "main_locations": ["Podwodne więzienie Impel Down"],
+        "key_characters": ["Luffy", "Boa Hancock", "Jimbe", "Buggy", "Mr. 2 Bon Clay", "Emporio Ivankov", "Magellan", "Hannyabal", "Crocodile", "Blackbeard"],
+        "summary": "Luffy infiltruje Impel Down z pomocą Hancock, aby uwolnić Ace’a. Po drodze łączy siły z dawnymi wrogami, takimi jak Buggy, Bon Clay i Crocodile. Jednak Magellan poważnie zatruwa Luffy’ego, a Ace zostaje przeniesiony do Marineford. Z pomocą Ivankova Luffy wraca do zdrowia i wraz z nowymi sojusznikami ucieka z więzienia.",
+        "key_events": ["Przedstawienie postaci Emporio Ivankova i Newkama Land.", "Luffy tworzy doraźny sojusz z Crocodilem i Jinbe w celu ucieczki.", "Czarnobrody włamuje się do Impel Down, aby zrekrutować więźniów do swojej załogi."]
+      },
+      {
+        "id": 4,
+        "name": "Marineford Arc",
+        "anime_episodes": "457–489",
+        "manga_chapters": "550–580",
+        "main_locations": ["Marineford", "Siedziba Marynarki", "Plac Egzekucji"],
+        "key_characters": ["Luffy", "Portgas D. Ace", "Edward Newgate (Whitebeard)", "Sakazuki", "Aokiji", "Kizaru", "Blackbeard", "Garp", "Sengoku", "Shichibukai (Mihawk, Doflamingo, Kuma, Hancock, Jinbe, Crocodile)", "Shanks"],
+        "summary": "Armie Whitebearda i Marynarka zderzają się w Marineford podczas publicznej egzekucji Ace’a. Luffy i uciekinierzy z Impel Down docierają, by go uratować. Walki prowadzą do wielkich strat: Ace zostaje zabity przez admirała Sakazuki, a Whitebeard ginie po ujawnieniu, że One Piece istnieje. Czarnobrody kradnie moc trzęsień ziemi od Whitebearda, a wojna zmienia równowagę sił na świecie.",
+        "key_events": ["Błyskawiczna bitwa między Yonko Whitebeardem a Marynarką.", "Śmierć Ace’a i Whitebearda oraz deklaracja istnienia One Piece.", "Czarnobrody zdobywa moc Whitebearda i ogłasza się nowym Imperatorem."]
+      },
+      {
+        "id": 5,
+        "name": "Post-War Arc",
+        "anime_episodes": "490–491 i 493–516",
+        "manga_chapters": "581–597",
+        "main_locations": ["Amazon Lily (rekonwalescencja)", "Mt. Colubo (trening Rayleigha)"],
+        "key_characters": ["Luffy", "Jinbe", "Silvers Rayleigh", "Sabo", "Boa Hancock", "Buggy", "Shanks"],
+        "summary": "Po wojnie świat pogrąża się w chaosie. Luffy zmaga się z żalem po stracie brata i przypomina sobie dzieciństwo z Ace’em i Sabo. Dzięki pomocy Jinbe i Rayleigha dochodzi do wniosku, że musi wzmocnić siebie i załogę. Wysyła wiadomość o dwuletnim treningu poprzez dzwony Ox Bell. Równocześnie rząd i piraci przystosowują się do nowej ery.",
+        "key_events": ["Wprowadzenie Saboa jako przyjaciela z dzieciństwa i członka Rewolucjonistów.", "Rayleigh rozpoczyna trening Luffy’ego z Haki.", "Załoga w różnych zakątkach świata przygotowuje się do ponownego spotkania po dwóch latach."]
+      }
+    ]
+  },
+  {
+    "saga_name": "Fish-Man Island Saga",
+    "japanese_name": "Gyojin-to-hen",
+    "overall_summary": "Po dwuletniej przerwie załoga ponownie spotyka się na archipelagu Sabaody i pokazuje nowe umiejętności. Następnie wyruszają do podwodnego Królestwa Rybich Ludzi, gdzie muszą stawić czoła rasowej nienawiści, próbom zamachu stanu i legendom o starożytnych broniach. Saga ta przygotowuje grunt pod wejście w Nowy Świat.",
+    "arcs": [
+      {
+        "id": 1,
+        "name": "Return to Sabaody Arc",
+        "anime_episodes": "517–522",
+        "manga_chapters": "598–602",
+        "main_locations": ["Archipelag Sabaody"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Brook", "Caribou", "Fake Straw Hats"],
+        "summary": "Po dwóch latach treningu każdy z członków załogi powraca na Sabaody. Muszą uporać się z fałszywą załogą Słomkowych Kapeluszy rekrutującą piratów i z Marines. Wkrótce po zjednoczeniu demonstrują nowo zdobyte umiejętności i wyruszają na dno morza ku Fish-Man Island.",
+        "key_events": ["Prezentacja nowych mocy Haki Luffy’ego i umiejętności pozostałych członków.", "Upokorzenie fałszywych Słomkowych Kapeluszy i eliminacja Caribou przez Luffy’ego.", "Powrót Camie i jej przyjaciół oraz rozpoczęcie podwodnej podróży."]
+      },
+      {
+        "id": 2,
+        "name": "Fish-Man Island Arc",
+        "anime_episodes": "523–541 i 543–574",
+        "manga_chapters": "603–653",
+        "main_locations": ["Fish-Man Island", "Ryugu Palace", "Gyoncorde Plaza"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Brook", "Jinbe", "Shirahoshi", "Hody Jones", "Vander Decken IX"],
+        "summary": "Załoga dociera do podwodnego Królestwa Rybich Ludzi, gdzie spotykają księżniczkę syrenę Shirahoshi i byłego Warlorda Jinbe. Gdy rasista Hody Jones zawiera sojusz z Vander Deckenem, planując obalenie rodziny królewskiej, Luffy i spółka stają w obronie królestwa. Po bitwie Luffy dowiaduje się o starożytnej broni Poseidon i składa przysięgę ochrony krainy mimo przepowiedni, że ją zniszczy.",
+        "key_events": ["Ujawnienie, że kapelusz słomkowy Luffy’ego należał do Gol D. Rogera, a Shirahoshi jest starożytną bronią Poseidon.", "Pierwsze wspomnienie Joy Boy i broni Uranus oraz wprowadzenie Koali i Big Mom.", "Luffy deklaruje wojnę Big Mom, jednocześnie odmawiając natychmiastowego przyłączenia Jinbe do załogi."]
+      }
+    ]
+  },
+  {
+    "saga_name": "Dressrosa Saga",
+    "japanese_name": "Dressrosa-hen",
+    "overall_summary": "Po opuszczeniu Rybich Ludzi Słomkowi wkraczają do Nowego Świata. Zawierają sojusz z Trafalgarem Lawem, którego celem jest obalenie Kaido. Pierwszym krokiem jest uderzenie w produkcję sztucznych owoców SMILE na Punk Hazard, a następnie w królestwo Dressrosa, rządzone przez okrutnego Donquixote Doflamingo. Saga wprowadza wiele nowych sojuszników oraz rozszerza uniwersum o postacie takie jak samurajowie z Wano.",
+    "arcs": [
+      {
+        "id": 1,
+        "name": "Punk Hazard Arc",
+        "anime_episodes": "579–589 i 591–625",
+        "manga_chapters": "654–699",
+        "main_locations": ["Wyspa Punk Hazard", "Laboratoria Caesar Clowna"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Brook", "Trafalgar Law", "Caesar Clown", "Kin'emon", "Momonosuke", "Smoker", "Vergo", "Doflamingo"],
+        "summary": "Luffy odpowiada na sygnał alarmowy i trafia na wyspę Punk Hazard, gdzie przetrzymywane są dzieci i przeprowadzane są nielegalne eksperymenty. Łączy siły z Trafalgarem Lawem oraz samurajem Kin'emone w celu pokonania naukowca Caesar Clowna. Odkrywają, że wyspa produkuje sztuczne owoce SMILE dla Kaido, co prowadzi do przymierza mającego obalić Yonko.",
+        "key_events": ["Powstanie sojuszu między Słomkowymi a Załogą Serca.", "Przedstawienie Kin’emona i jego syna Momonosuke, którzy poszukują samuraja z Wano.", "Ujawnienie, że owoce Diabelskie pojawiają się ponownie po śmierci użytkownika."]
+      },
+      {
+        "id": 2,
+        "name": "Dressrosa Arc",
+        "anime_episodes": "629–746",
+        "manga_chapters": "700–801",
+        "main_locations": ["Królestwo Dressrosa", "Colosseum", "Podziemny port", "Ptasi Klatka"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Brook", "Law", "Sabo", "Rebecca", "Kyros", "Donquixote Doflamingo", "Trafalgar D. Water Law", "Fujitora", "Hack", "Minks", "Straw Hat Grand Fleet"],
+        "summary": "Sojusz Słomkowych i Lawa dociera do Dressrosy, gdzie Doflamingo rządzi królestwem, wykorzystując zdolność Ito Ito no Mi i sztuczne owoce SMILE. Luffy bierze udział w turnieju Colosseum, aby zdobyć Mera Mera no Mi po Ace’u, gdzie spotyka swojego brata Sabo, który okazuje się żywy. Załoga dzieli się na grupy, by zniszczyć fabrykę SMILE, uwolnić niewolników Tontatta i obalić Doflamingo. Po ciężkiej walce Luffy aktywuje Gear Fourth i zwycięża, a liczne załogi pirackie przysięgają mu wierność jako Straw Hat Grand Fleet.",
+        "key_events": ["Powrót Sabo i zdobycie Mera Mera no Mi.", "Utworzenie Straw Hat Grand Fleet z siedmiu flot pirackich, które przysięgają służbę Luffy’emu.", "Pierwsze użycie formy Gear Fourth przez Luffy’ego oraz obalenie Doflamingo, co prowadzi do upadku jego władzy i ujawnienia spisku w rządzie."]
+      }
+    ]
+  },
+  {
+    "saga_name": "Whole Cake Island Saga",
+    "japanese_name": "Totto Land-hen",
+    "overall_summary": "Po zwycięstwie w Dressrosie załoga rozdziela się. Część rusza na słoniową wyspę Zou, aby spotkać Minks i samurajów, a następnie podąża do Tottoland, siedziby Yonko Big Mom, by odzyskać porwanego Sanjiego. Saga eksploruje konflikty rodzinne i polityczne, przedstawia nowe sojusze i poświęcenia, a także prowadzi do tzw. Reverie, zebrania władców świata.",
+    "arcs": [
+      {
+        "id": 1,
+        "name": "Zou Arc",
+        "anime_episodes": "751–779",
+        "manga_chapters": "802–824",
+        "main_locations": ["Zou (gigantyczny słoń Zunisha)", "Miasto Mokomo Dukedom"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Brook", "Law", "Kin'emon", "Momonosuke", "Inuarashi", "Nekomamushi", "Pedro", "Carrot", "Jack"],
+        "summary": "Słomkowi docierają do ruchomej wyspy Zou na grzbiecie gigantycznego słonia Zunisha, gdzie spotykają plemię Minków. Dowiadują się, że Kaido wysłał Jacka, aby zniszczył wyspę w poszukiwaniu wojowników samurajskich. Sanji zostaje uprowadzony do aranżowanego małżeństwa z rodziną Vinsmoke. Załoga dowiaduje się o Road Poneglyphs i formuje Ninjo-Piracko-Minkowo-Samurajski Sojusz, aby obalić Kaido.",
+        "key_events": ["Wprowadzenie Carrot i Pedro jako sprzymierzeńców oraz ujawnienie tajemnicy pochodzenia Momonosuke.", "Odkrycie jednego z czterech Road Poneglyphów potrzebnych do odnalezienia Laugh Tale.", "Podział załogi – część rusza ratować Sanjiego, a część przygotowuje się do walki o Wano."]
+      },
+      {
+        "id": 2,
+        "name": "Whole Cake Island Arc",
+        "anime_episodes": "783–877",
+        "manga_chapters": "825–902",
+        "main_locations": ["Totto Land (Whole Cake Island)", "Zamek Czekoladowy", "Mirror World"],
+        "key_characters": ["Luffy", "Nami", "Chopper", "Brook", "Sanji", "Carrot", "Pedro", "Jinbe", "Vinsmoke Family", "Charlotte Linlin (Big Mom)", "Charlotte Katakuri", "Capone Bege (Fire Tank Pirates)", "Caesar Clown"],
+        "summary": "Luffy i część załogi wyrusza do Totto Land, by zapobiec politycznemu małżeństwu Sanjiego z Pudding, córką Big Mom. Po serii potyczek i sojuszy (m.in. z gangsterem Capone Bege) planują zamach na Yonko. Ostatecznie rezygnują z zabicia Big Mom, skupiając się na ucieczce z Sanjim i zdobyciu kopii drugiego Road Poneglyph. Sanji po pogodzeniu z rodziną wraca do załogi. Po drodze Luffy toczy wyczerpujące pojedynki z Katakurim, ucząc się zaawansowanego Haki i nowych form Gear Fourth.",
+        "key_events": ["Sanji godzi się ze swoim ojcem i rodzeństwem, wracając do załogi.", "Powstaje sojusz z Capone Bege i Jinbem w celu zabicia Big Mom (misja nie dochodzi do skutku).", "Luffy pokonuje Katakuriego, zdobywa wzmocnione Haki i ucieka z Totto Land z kopiami Poneglyphu."]
+      },
+      {
+        "id": 3,
+        "name": "Levely Arc",
+        "anime_episodes": "878–889",
+        "manga_chapters": "903–908",
+        "main_locations": ["Mary Geoise", "Królestwa Alabasta, Ryugu, Dressrosa (poprzez reprezentacje)"],
+        "key_characters": ["Królowa Vivi", "Shirahoshi", "King Cobra", "Królowie i Królowe ze światowych królestw", "Dragon", "Sabo", "Imu", "Akainu", "Fujitora", "Ryokugyu"],
+        "summary": "Włodarze świata spotykają się na Levely, aby omówić sprawy globalne. Wśród uczestników są Vivi i król Ryugu. Na spotkaniu wprowadzony zostaje tajemniczy władca Imu, kontrolujący Pięciu Starszych. Sabo i Armia Rewolucjonistów podejmują działania w Mary Geoise, a świat dowiaduje się o wyczynach Słomkowych Kapeluszy, określając Luffy’ego piątym cesarzem.",
+        "key_events": ["Sanji otrzymuje Raid Suit i staje się formalnie piątym Yonko.", "Imu, ukryty władca świata, zasiada na pustym tronie, budząc zaniepokojenie.", "Armia Rewolucjonistów, pod wodzą Sabo, infiltruje Mary Geoise w celu uwolnienia kumpli i deklaruje wojnę Szlachcie."]
+      }
+    ]
+  },
+  {
+    "saga_name": "Wano Country Saga",
+    "japanese_name": "Wanokuni-hen",
+    "overall_summary": "Najdłuższa saga do tej pory prezentuje sojusz Ninja–Piracko–Minkowo–Samurajski zmagający się z Kaido i sojusznikiem Big Mom na zamkniętej krainie Wano. Poznając historię Odena Kozukiego i jego podróży z Rogerem, Luffy i załoga przygotowują się do bitwy na Onigashimie. Po wyczerpującej wojnie Yonko zostają pokonani, system Shichibukai zostaje rozwiązany, a Wano otwiera się na świat. Luffy osiąga nową formę Gear Fifth i zostaje jednym z czterech cesarzy.",
+    "arcs": [
+      {
+        "id": 1,
+        "name": "Wano Country Arc",
+        "anime_episodes": "890–894, 897–906, 908–1028, 1031–1085",
+        "manga_chapters": "909–1057",
+        "main_locations": ["Kraina Wano (Kuryashi, Udon, Ringo, Flower Capital)", "Onigashima"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Brook", "Jinbe", "Kin'emon", "Momonosuke", "Yamato", "Kaido", "Big Mom", "Kozuki Oden (we wspomnieniach)", "Scabbards", "Orochi", "Fujitora", "Admiral Ryokugyu", "CP0", "Rocks D. Xebec (wspomniany)", "Joy Boy"],
+        "summary": "Po dotarciu do izolowanego kraju Wano załoga dowiaduje się o okrutnych rządach shoguna Kurozumiego Orochiego i Yonko Kaido. Sojusz samurajów i piratów organizuje się w tajemnicy, by w noc Festiwalu Ognia zaatakować Onigashimę. Saga dzieli się na kilka aktów: w pierwszym poznajemy codzienność w Wano i przeszłość Odena, w drugim załoga trenuje i gromadzi siły, a w trzecim toczy się wielka bitwa. Luffy kilkukrotnie przegrywa z Kaido, lecz w końcu budzi swoją prawdziwą moc gum-guma (Nika) — formę Gear Fifth — i pokonuje go. Po zwycięstwie Kaido i Big Mom zostają zdetronizowani, system Warlordów zostaje zniesiony, a Wano otwiera się na świat. Luffy oraz Buggy zostają nowymi cesarzami, a załoga zdobywa trzeci Road Poneglyph.",
+        "key_events": ["Historia Odena pokazuje podróże z piratami Whitebearda i Rogera, w tym odnalezienie Laugh Tale.", "Sojusz przeprowadza rajd na Onigashimę; Luffy używa Gear Fifth, Zoro budzi Enmę i Supreme King Haki, Sanji odkrywa moce genetyczne.", "Po bitwie rozpad systemu Shichibukai, powstanie Cross Guild, śmierć króla Cobry oraz odejście niektórych członków sojuszu."]
+      }
+    ]
+  },
+  {
+    "saga_name": "Final Saga",
+    "japanese_name": "Saishu-hen",
+    "overall_summary": "Końcowa saga (wciąż w toku) kontynuuje wydarzenia po Wano. Świat wstrząśnięty jest upadkiem dwóch Yonko i rozwiązaniem systemu Shichibukai. Luffy i jego załoga podążają do technologicznej wyspy Egghead, aby spotkać genialnego naukowca Vegapunka. Tajemnice Pustego Wieku i działalność rządu światowego zaczynają wychodzić na jaw, a równocześnie inne potęgi — w tym Cross Guild, Załoga Czarnego Brody i Red Hair Pirates — przygotowują się do ostatecznej konfrontacji.",
+    "arcs": [
+      {
+        "id": 1,
+        "name": "Egghead Arc",
+        "anime_episodes": "1086–obecnie",
+        "manga_chapters": "1058–1125",
+        "main_locations": ["Wyspa Egghead", "Fabryki Vegapunka", "Mary Geoise (w równoległych wątkach)", "Królewski Zamek Holy Land"],
+        "key_characters": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "Robin", "Franky", "Brook", "Jinbe", "Vegapunk (oraz jego satelity Atlas, Shaka, Lilith, Edison, Pythagoras, York)", "Jewelry Bonney", "CP0 (Rob Lucci, Kaku, Stussy)", "Kizaru", "Jaygarcia Saturn", "Admiral Ryokugyu", "Sabo", "Imu"],
+        "summary": "Po Wano Słomkowi trafiają na futurystyczną wyspę Egghead – laboratorium doktora Vegapunka. Spotykają sześć klonów–satelitów Vegapunka i dowiadują się o badaniach nad Void Century oraz powstaniu sztucznej inteligencji. Rząd światowy uznaje Vegapunka za zagrożenie i wysyła oddział CP0 oraz flotę dowodzoną przez admirała Kizaru i Pięciu Starszych. Równolegle Sabo i Rewolucjoniści odkrywają, że władca Imu faktycznie istnieje i ma dostęp do starożytnych broni. Fabuła wciąż trwa, ale jej kulminacja ma wstrząsnąć światem.",
+        "key_events": ["Przedstawienie serii nowych broni — Seraphim — będących klonami Warlordów ze wzmocnieniami Lunarian.", "Bonney ujawnia, że jest córką Bartholomew Kumy, i odwiedza laboratorium, by poznać prawdę o ojcu.", "Vegapunk rozpoczyna globalną transmisję ujawniającą sekrety Pustego Wieku, czym prowokuje rząd do ataku."]
+      },
+      {
+        "id": 2,
+        "name": "Elbaph Arc (w toku)",
+        "anime_episodes": "TBA",
+        "manga_chapters": "1126–",
+        "main_locations": ["Wyspa Olbrzymów Elbaph"],
+        "key_characters": ["Luffy", "Załoga Słomkowych Kapeluszy", "Shanks", "Cross Guild", "Giant Warrior Pirates"],
+        "summary": "Według zapowiedzi z mangi załoga zmierza do Elbaph wraz z Piratami Olbrzymów. Wielkie potęgi świata — Shanks, Cross Guild i Blackbeard — zaczynają ścigać One Piece. Arc jest wciąż w fazie początkowej, ale ma ujawnić więcej tajemnic dotyczących rasy Olbrzymów i historii D. Informacje będą aktualizowane w miarę wydawania nowych rozdziałów.",
+        "key_events": ["Przybycie na Elbaph i spotkanie z Dorrym oraz Brogym.", "Ujawnienie długowiecznego rodu Figarlandów oraz przeszłości Shanksa.", "Nowe starcia pomiędzy cesarzami (Shanks, Blackbeard, Buggy) i sojuszami piratów."]
+      }
+    ]
+  }
+]
