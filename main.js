@@ -1,3 +1,43 @@
+// --- Saga presentation ---
+const sagaListSection = document.getElementById("saga-list");
+if (sagaListSection) {
+  // Funkcja do pobrania wszystkich plików JSON z katalogu data/ (tylko sagi)
+  async function loadSagas() {
+    // Lista plików sag (można rozbudować o kolejne pliki w przyszłości)
+    const sagaFiles = [
+      "east_blue_saga.json",
+      "sky_island_saga.json",
+      "water_7_saga.json",
+      "thriller_bark_saga.json",
+      "summit_war_saga.json",
+      // Dodaj tu kolejne pliki jeśli będą
+    ];
+    const sagaData = await Promise.all(
+      sagaFiles.map(async (file) => {
+        try {
+          const res = await fetch(`data/${file}`);
+          if (!res.ok) return null;
+          return await res.json();
+        } catch {
+          return null;
+        }
+      })
+    );
+    return sagaData.filter(Boolean);
+  }
+
+  function renderSagas(sagas) {
+    sagaListSection.innerHTML = sagas.map(saga => `
+      <div class="saga-card">
+        <div class="saga-title">${saga.saga_name || "Saga"}</div>
+        <div class="saga-jp">${saga.japanese_name || ""}</div>
+        <div class="saga-summary">${saga.overall_summary || ""}</div>
+      </div>
+    `).join("");
+  }
+
+  loadSagas().then(renderSagas);
+}
 const svg = d3.select("#tree");
 const tooltip = d3.select("#tooltip");
 const searchInput = document.getElementById("search");
