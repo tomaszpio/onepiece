@@ -1,0 +1,171 @@
+{
+  "saga_name": "Summit War Saga",
+  "japanese_name": "Kessen Kōhen",
+  "overall_summary": "Znana też jako Saga Wojny o Białobrodego, ta kulminacyjna część pierwszej połowy One Piece rozpoczyna się, gdy Słomkowi Kapelusze docierają do Archipelagu Sabaody. Incydent z Niebiańskim Smokiem prowadzi do pojawienia się admirałów i rozproszenia załogi przez Bartholomew Kumę. Luffy samotnie próbuje uratować skazanego na śmierć brata Ace’a, co prowadzi go przez Amazon Lily i więzienie Impel Down aż do wojny w Marineford. Po wojnie świat zmienia się na zawsze, a Luffy postanawia wzmocnić siebie i załogę, zapoczątkowując dwuletni trening.",
+  "arcs": [
+    {
+      "id": 1,
+      "name": "Sabaody Archipelago Arc",
+      "anime_episodes": "385–405",
+      "manga_chapters": "490–513",
+      "main_locations": [
+        "Archipelag Sabaody",
+        "Dom aukcyjny",
+        "Shakky’s Rip-off Bar"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Chopper",
+        "Robin",
+        "Franky",
+        "Brook",
+        "Camie",
+        "Hatchan",
+        "Silvers Rayleigh",
+        "Kizaru",
+        "Sentomaru",
+        "Bartholomew Kuma",
+        "Jedenastu Supernowych"
+      ],
+      "summary": "Słomkowi Kapelusze docierają do ostatniej wyspy pierwszej połowy Grand Line, aby pokryć Thousand Sunny żywicą i zanurzyć się na dno w kierunku Rybiej Wyspy. Ratują syrenę Camie z rąk handlarzy niewolników. Luffy uderza Niebiańskiego Smoka, wywołując interwencję admirała Kizaru i przerażających Pacifist. Na Sabaody spotykają innych początkujących piratów, tzw. Supernowych, oraz byłego pierwszego oficera Rogera, Silversa Rayleigha. Bitwa z Marines kończy się, gdy Bartholomew Kuma używa mocy Paw-Paw, by rozproszyć załogę po świecie. Jest to pierwszy arc w sadze.",
+      "key_events": [
+        "Incydent w Domu Aukcyjnym i Luffy uderzający Celestial Dragon, co wzywa admirała Kizaru",
+        "Spotkanie z Silversem Rayleighiem, który obiecuje pokryć statek i ujawnia informacje o Rogersie",
+        "Bartholomew Kuma wysyła każdego z członków załogi na inne miejsce, rozpoczynając dwuletnie rozdzielenie"
+      ],
+      "sources": [
+        "Statystyki arcs: tomy 50–53, rozdziały 490–513, odcinki 385–405:contentReference[oaicite:0]{index=0}"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Amazon Lily Arc",
+      "anime_episodes": "408–421",
+      "manga_chapters": "514–524",
+      "main_locations": [
+        "Amazon Lily",
+        "Kuja",
+        "Hardshell Isle"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Boa Hancock",
+        "Boa Sandersonia",
+        "Boa Marigold",
+        "Gloriosa (Elder Nyon)",
+        "Marguerite"
+      ],
+      "summary": "W wyniku ataku Kumy Luffy ląduje samotnie na wyspie Amazon Lily zamieszkałej przez wojownicze kobiety Kuja, które nienawidzą mężczyzn. Po początkowych potyczkach z siostrami Hancock Luffy ratuje księżniczkę i nieumyślnie zdobywa serce cesarzowej piratów Boa Hancock. Tam dowiaduje się, że jego brat Ace został schwytany i czeka na egzekucję w Marineford. Hancock decyduje się pomóc Luffy’emu, przemycając go do więzienia Impel Down. Arc wprowadza Conqueror’s Haki Luffy’ego i pokazuje struktury rządowe świata.",
+      "key_events": [
+        "Luffy używa Haoshoku Haki (Conqueror’s Haki), by powalić część wojowniczek Kuja",
+        "Boa Hancock zakochuje się w Luffym i zgadza się ukryć go pod swoją peleryną, aby dostał się do Impel Down",
+        "Luffy dowiaduje się o zaplanowanej publicznej egzekucji Ace’a i postanawia go uratować"
+      ],
+      "sources": [
+        "Arc statistics: tomy 53–54, rozdziały 514–524, odcinki 408–421:contentReference[oaicite:1]{index=1}"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Impel Down Arc",
+      "anime_episodes": "422–425, 430–452",
+      "manga_chapters": "525–549",
+      "main_locations": [
+        "Podwodne więzienie Impel Down",
+        "Calm Belt",
+        "Newkama Land"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Boa Hancock",
+        "Jinbe",
+        "Buggy",
+        "Mr. 2 Bon Clay",
+        "Emporio Ivankov",
+        "Magellan",
+        "Hannyabal",
+        "Crocodile",
+        "Marshall D. Teach (Blackbeard)"
+      ],
+      "summary": "Luffy infiltruje największe więzienie świata, Impel Down, by uratować Ace’a. Dzięki pomocy Hancock wchodzi do kompleksu, lecz w drodze napotyka dawnych wrogów i sojuszników: Buggy’ego, Bon Claya, Ivankova i Crocodile’a. W trakcie przejścia przez kolejne piekielne poziomy zostaje silnie zatruty przez dyrektora Magellana, ale przeżywa dzięki leczeniu w Newkama Land. Luffy dociera do Ace’a, lecz brat zostaje już przeniesiony do Marineford. Po drodze Luffy łączy siły z Jinbe, wydostaje się z więzienia i wyrusza na wojnę, a Blackbeard wykorzystuje chaos, by zrekrutować przestępców do swojej załogi.",
+      "key_events": [
+        "Luffy rekrutuje dawne postacie, takie jak Buggy, Bon Clay, Mr. 3 i Crocodile, tworząc nietypowy sojusz",
+        "Ivankov ratuje Luffy’ego przed śmiertelną trucizną Magellana za pomocą hormonów i wprowadza Newkama Land",
+        "Blackbeard atakuje Impel Down, wyzwalając więźniów Levelu 6, co wzmocni jego załogę"
+      ],
+      "sources": [
+        "Arc statistics: tomy 54–56, rozdziały 525–549, odcinki 422–425 i 430–452:contentReference[oaicite:2]{index=2}"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Marineford Arc",
+      "anime_episodes": "457–489",
+      "manga_chapters": "550–580",
+      "main_locations": [
+        "Marineford (Baza Marynarki)",
+        "Plac Egzekucji",
+        "Tłocznia Tarai"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Portgas D. Ace",
+        "Edward Newgate (Białobrody)",
+        "Sakazuki (Akainu)",
+        "Aokiji",
+        "Kizaru",
+        "Marshall D. Teach",
+        "Garp",
+        "Sengoku",
+        "Shanks",
+        "Trafalgar Law",
+        "Boa Hancock",
+        "Jinbe",
+        "Sichibukai (Mihawk, Doflamingo, Kuma, Hancock, Jinbe, Crocodile)"
+      ],
+      "summary": "Uwaga całego świata koncentruje się na Marineford, gdzie Marynarka zamierza dokonać publicznej egzekucji Ace’a. Floty Białobrodego i jego sojuszników walczą z pełnymi siłami Marynarki, admirałami i Shichibukai. Luffy i jego towarzysze z Impel Down docierają w samym środku wojny, błagając o uratowanie Ace’a. W trakcie chaotycznej bitwy Ace zostaje uwolniony, lecz chwilę później ginie, osłaniając Luffy’ego przed Akainu. Białobrody umiera, ujawniając istnienie One Piece i kładąc kres dotychczasowej erze. Blackbeard wkracza, zabijając Białobrodego i kradnąc moc Gura Gura no Mi, a wojna kończy się dopiero po przybyciu Shanksa.",
+      "key_events": [
+        "Publiczna bitwa Białobrody kontra Marynarka i Shichibukai, z udziałem tysięcy żołnierzy i piratów",
+        "Ujawnienie, że Ace jest synem Gol D. Rogera; śmierć Ace’a i Białobrodego, co destabilizuje równowagę świata",
+        "Blackbeard przejmuje moc trzęsień ziemi od Białobrodego, stając się nowym Imperatorem, a Shanks kończy wojnę"
+      ],
+      "sources": [
+        "Arc statistics: tomy 56–59, rozdziały 550–580, odcinki 457–489:contentReference[oaicite:3]{index=3}"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Post‑War Arc",
+      "anime_episodes": "490–491, 493–516",
+      "manga_chapters": "581–597",
+      "main_locations": [
+        "Amazon Lily (rekonwalescencja)",
+        "Mt. Colubo",
+        "Mary Geoise"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Jinbe",
+        "Silvers Rayleigh",
+        "Boa Hancock",
+        "Buggy",
+        "Sabo",
+        "Trafalgar Law",
+        "Monkey D. Dragon"
+      ],
+      "summary": "Po zakończeniu wojny Luffy jest pogrążony w żalu po stracie Ace’a. W retrospekcjach przypomniane zostaje dzieciństwo Luffy’ego, Ace’a i Sabo, ukazując, jak zostali braćmi. Wśród chaosu na świecie Shanks i inni cesarze szykują się do walki o władzę. Rayleigh przybywa na Amazon Lily i proponuje Luffy’emu trening Haki, sugerując dwa lata rozłąki przed wejściem do Nowego Świata. Luffy wraca na Marineford, by nadać wiadomość „3D2Y” do załogi — spotkanie za dwa lata — i wyrusza na trening. Arc zamyka pierwszą połowę serii.",
+      "key_events": [
+        "Wspomnienia z dzieciństwa Ace’a, Luffy’ego i Sabo; ujawnienie, że Sabo żyje i dołącza do Rewolucjonistów",
+        "Rayleigh trenuje Luffy’ego w Haki na Mt. Colubo, przygotowując go na Nowy Świat",
+        "Luffy wysyła załodze sygnał „3D2Y”, ustalając dwuletnią przerwę i początek treningu; świat szykuje się na nową erę"
+      ],
+      "sources": [
+        "Arc statistics: tomy 59–61, rozdziały 581–597, odcinki 490–491 i 493–516:contentReference[oaicite:4]{index=4}"
+      ]
+    }
+  ]
+}

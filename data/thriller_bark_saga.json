@@ -1,0 +1,42 @@
+{
+  "saga_name": "Thriller Bark Saga",
+  "japanese_name": "Thriller Bark-hen",
+  "overall_summary": "Ta krótka saga przenosi Słomkowych Kapeluszy w tajemnicze rejony Grand Line. Po wypłynięciu z Water 7 wkraczają w mglisty obszar zwany Florian Triangle, gdzie spotykają kościanego muzyka Brook'a i wciągają go na pokład. Wkrótce trafiają na ogromny, upiorny statek–wyspa Thriller Bark, rządzony przez Shichibukai Gecko Morię. Moria, wykorzystując moc Kage Kage no Mi, kradnie cienie załogi i ożywia setki zombie, w tym gigantycznego Oarsa. Załoga musi odzyskać swoje cienie przed wschodem słońca, walcząc z armią ożywieńców i z nieoczekiwanymi gośćmi z rządu. Dzięki pomocy Brook'a, który tęskni za utraconym cieniem, Luffy przyjmuje formę Nightmare Luffy, pokonuje Morię i Oarsa, a Brook dołącza do załogi jako muzyk.",
+  "arcs": [
+    {
+      "id": 1,
+      "name": "Thriller Bark Arc",
+      "anime_episodes": "337–381",
+      "manga_chapters": "442–489",
+      "main_locations": [
+        "Florian Triangle",
+        "Statek‑wyspa Thriller Bark",
+        "Mansion Hogbacka"
+      ],
+      "key_characters": [
+        "Monkey D. Luffy",
+        "Roronoa Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Tony Tony Chopper",
+        "Nico Robin",
+        "Franky",
+        "Brook",
+        "Gecko Moria",
+        "Perona",
+        "Dr. Hogback",
+        "Absalom",
+        "Oars",
+        "Bartholomew Kuma"
+      ],
+      "summary": "Płynąc przez Florian Triangle, załoga spotyka żywego szkieleta Brook'a, który opowiada o swojej klątwie i o skradzionym cieniu. Złowieszczy statek Thriller Bark wciąga Thousand Sunny za mury, a Warlord Gecko Moria rozpoczyna polowanie na cienie Słomkowych Kapeluszy. Moria i jego Mysterious Four (Hogback, Absalom, Perona) tworzą armię zombie, w tym gigantycznego Oarsa, używając skradzionych cieni. Luffy pożycza sto cieni i staje się Nightmare Luffy, co pozwala mu pokonać Oarsa. Bartholomew Kuma przybywa z rozkazem zgładzenia załogi; Zoro poświęca się, by przyjąć na siebie rany Luffy'ego, wypowiadając słynne „Nic się nie stało". Po odzyskaniu cieni załoga żegna się z Brook'iem, który ostatecznie dołącza do ekipy.",
+      "key_events": [
+        "Spotkanie Brook'a i zaproszenie go na statek; ujawnienie, że jego cień został skradziony przez Morię.",
+        "Moria kradzie cienie załogi; Luffy zostaje \'Nightmare Luffy\', dzięki czemu pokonuje Oarsa i Morię.",
+        "Bartholomew Kuma pojawia się z rozkazem zabicia załogi; Zoro przejmuje ból Luffy'ego, mówiąc „Nic się nie stało".",
+        "Brook odzyskuje cień i dołącza do załogi jako muzyk, a Słomkowi ruszają w kierunku Archipelagu Sabaody."
+      ]
+    }
+  ]
+}

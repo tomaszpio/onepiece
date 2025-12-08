@@ -1,0 +1,137 @@
+{
+  "saga_name": "Water 7 Saga",
+  "japanese_name": "Water 7-hen",
+  "overall_summary": "W trzeciej sadze załoga Słomkowych Kapeluszy wyrusza z niebiańskiej Skypiei w głąb Grand Line, gdzie czeka ich seria prób związanych z utratą członków załogi, walkami z rządowymi zabójcami i potrzebą nowego statku. Saga rozpoczyna się niewinną rozgrywką Davy Back Fight przeciwko piratom Foxy'ego, lecz szybko nabiera powagi, gdy na oceanie pojawia się admirał Aokiji. W mieście Water 7 załoga próbuje naprawić zniszczony statek i rekrutować stoczniowca, co prowadzi do konfliktu z gangiem Franky'ego i tajną agencją CP9. Kiedy Nico Robin zostaje porwana, bohaterowie szturmują wyspę‑sąd Enies Lobby, wypowiadając wojnę rządowi światowemu. Po tej wyczerpującej bitwie wracają do Water 7, przyjmują Franky'ego do załogi i budują nowy okręt — Thousand Sunny.",
+  "arcs": [
+    {
+      "id": 1,
+      "name": "Long Ring Long Land Arc",
+      "anime_episodes": "207–219",
+      "manga_chapters": "303–321",
+      "main_locations": [
+        "Long Ring Long Land",
+        "Foxy's Ship"
+      ],
+      "key_characters": [
+        "Monkey D. Luffy",
+        "Roronoa Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Tony Tony Chopper",
+        "Nico Robin",
+        "Foxy the Silver Fox",
+        "Tonjit",
+        "Admiral Aokiji"
+      ],
+      "summary": "Załoga trafia na wyspę Long Ring Long Land, gdzie pirat Foxy wyzywa Luffy'ego na serię gier Davy Back Fight. Stawką każdego z trzech etapów — Donut Race, Groggy Ring i pojedynku kapitanów — są członkowie załogi. Słomkowi chwilowo tracą Choppera (w anime także Robin), lecz dzięki sprytowi odzyskują wszystkich i Luffy pokonuje Foxy'ego jako Afro Luffy. Po zakończeniu gry pojawia się admirał Aokiji, który demonstracją lodowych mocy ujawnia przepaść między Piratami a admirałami.",
+      "key_events": [
+        "Seria gier Davy Back Fight, podczas której Luffy zakłada \"Afro\" i wygrywa pojedynek z Foxym.",
+        "Chopper zostaje na chwilę członkiem załogi Foxy'ego; Zoro i Sanji ratują go w Groggy Ring.",
+        "Pierwsze spotkanie z admirałem Aokijim, który zamraża Robin i pokazuje moc logii lodu."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Water 7 Arc",
+      "anime_episodes": "229–263",
+      "manga_chapters": "322–374",
+      "main_locations": [
+        "Miasto Water 7",
+        "Galley‑La Company",
+        "Franky House",
+        "Pociąg morski Puffing Tom"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Chopper",
+        "Robin",
+        "Franky",
+        "Iceburg",
+        "Paulie",
+        "Rob Lucci",
+        "Kaku",
+        "Kalifa",
+        "Blueno",
+        "Kokoro"
+      ],
+      "summary": "Słomkowi docierają do miasta‑kanału Water 7, by naprawić Going Merry i znaleźć stoczniowca. Spotykają rodzinę Franky'ego, która kradnie im fundusze, oraz stoczniowców Galley‑La. Kiedy Kaku oznajmia, że Merry jest nienaprawialny, Luffy decyduje się wymienić statek, co prowadzi do bójki z Usoppem i jego odejścia. Robin znika pod groźbą tajnej agencji CP9, a Iceburg zostaje zaatakowany. Ujawnia się, że kilku stoczniowców to agenci CP9 — Rob Lucci, Kaku, Kalifa i Blueno — którzy chcą zdobyć plany broni Pluton. Saga kończy się porwaniem Robin i Franky'ego oraz ruszeniem załogi pociągiem Rocketman w pogoń.",
+      "key_events": [
+        "Luffy i Usopp kłócą się o naprawę statku; Usopp opuszcza załogę po przegranym pojedynku.",
+        "CP9 zdradza swoje tożsamości, napada Iceburga i porywa Robin oraz Franky'ego na rozkaz rządu.",
+        "Załoga decyduje się ruszyć w pościg, rezygnując z Merry i przyjmując tymczasowego sprzymierzeńca — pociąg Rocketman."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Enies Lobby Arc",
+      "anime_episodes": "264–290, 293–302, 304–312",
+      "manga_chapters": "375–430",
+      "main_locations": [
+        "Enies Lobby",
+        "Tower of Justice",
+        "Sea Train (Rocketman)",
+        "Courthouse Plaza"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Zoro",
+        "Nami",
+        "Usopp (Sogeking)",
+        "Sanji",
+        "Chopper",
+        "Robin",
+        "Franky",
+        "CP9 (Rob Lucci, Kaku, Kalifa, Jabra, Blueno, Fukurou, Kumadori, Spandam)",
+        "Galley‑La stoczniowcy",
+        "Franky Family",
+        "Marine admirals (Aokiji)"
+      ],
+      "summary": "Luffy i jego sprzymierzeńcy jadą pociągiem morskim Rocketman do Enies Lobby, wyspy sądu rządu światowego, aby uratować Nico Robin i Franky'ego. Na miejscu deklarują wojnę z World Government poprzez spalenie jego flagi. Każdy członek załogi walczy z agentami CP9, a Luffy wprowadza techniki Gear Second i Gear Third, by pokonać Roba Lucciego. Robin, widząc determinację przyjaciół, krzyczy \"Chcę żyć!\". Rząd uruchamia Buster Call, lecz załoga ucieka dzięki nieoczekiwanemu przybyciu Going Merry, który rozlatuje się po powrocie do Water 7. Załoga oddaje Merry'emu wzruszający pogrzeb na morzu.",
+      "key_events": [
+        "Luffy wypowiada wojnę rządowi, nakazując Sogekingowi spalić flagę World Government.",
+        "Robin wyznaje chęć życia; załoga przełamuje jej lęk i ratuje ją z rąk Spandama.",
+        "Luffy używa Gear Second i Gear Third w walce z Robem Luccim; po zwycięstwie załoga opuszcza Enies Lobby podczas Buster Call.",
+        "Ostatni rejs Going Merry — statek ratuje przyjaciół, a następnie zostaje pożegnany w ceremonii pogrzebowej."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Post‑Enies Lobby Arc (Return to Water 7)",
+      "anime_episodes": "313–325",
+      "manga_chapters": "431–441",
+      "main_locations": [
+        "Water 7",
+        "Galley‑La Shipyard",
+        "Thousand Sunny"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Chopper",
+        "Robin",
+        "Franky",
+        "Iceburg",
+        "Monkey D. Garp",
+        "Koby",
+        "Helmeppo",
+        "Portgas D. Ace (w wiadomościach)",
+        "Shanks (w wiadomościach)"
+      ],
+      "summary": "Po bitwie załoga wraca do Water 7, gdzie leczy rany i zastanawia się nad przyszłością. Franky używa drewna z drzewa Adam, by zbudować nowy statek — Thousand Sunny. Luffy spotyka dziadka Garpia, który zdradza, że ojcem Luffy'ego jest lider Rewolucjonistów, Monkey D. Dragon. Załoga otrzymuje nowe, wyższe listy gończe. Usopp, pod przebraniem Sogeking, błaga o przebaczenie i zostaje przyjęty z powrotem. Franky zostaje oficjalnie siódmym członkiem załogi. W innym miejscu Ace ściera się z Czarnobrodym, zapowiadając nadchodzącą wojnę.",
+      "key_events": [
+        "Budowa i wodowanie Thousand Sunny; załoga żegna się na dobre z Going Merry.",
+        "Garp odwiedza Słomkowych i ujawnia, że Dragon jest ojcem Luffy'ego.",
+        "Usopp wraca do załogi po przeprosinach; Franky dołącza jako cieśla.",
+        "Świat słyszy o starciu Portgasa D. Ace'a z Blackbeardem, zwiastując Wojenną Sagę."
+      ]
+    }
+  ]
+}
