@@ -1,0 +1,84 @@
+{
+  "saga_name": "Fish‑Man Island Saga",
+  "japanese_name": "Gyojin-tō Hen",
+  "overall_summary": "Ta saga otwiera drugą połowę One Piece. Po dwuletnim treningu Luffy i jego załoga ponownie spotykają się na Archipelagu Sabaody, prezentując nowe umiejętności. Muszą zmierzyć się z fałszywymi Słomkowymi Kapeluszami oraz Pacifistami, po czym wyruszają na dno morza do Królestwa Rybich Ludzi. Tam zaangażują się w konflikt rasowy, poznają historię Fishera Tigera i królowej Otohime oraz walczą z piratami Hody’ego Jonesa. Saga kończy się pokonaniem buntowników, ujawnieniem, że syrenia księżniczka Shirahoshi jest starożytną bronią Poseidon oraz deklaracją wojny Luffy’ego z Yonko Big Mom.",
+  "arcs": [
+    {
+      "id": 1,
+      "name": "Return to Sabaody Arc",
+      "anime_episodes": "517–522",
+      "manga_chapters": "598–602",
+      "main_locations": [
+        "Archipelag Sabaody",
+        "Shakky’s Bar",
+        "No Man’s Land"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Chopper",
+        "Robin",
+        "Franky",
+        "Brook",
+        "Rayleigh",
+        "Camie",
+        "Caribou",
+        "Fake Straw Hat Pirates",
+        "Pacifista PX‑5"
+      ],
+      "summary": "Dwa lata po rozproszeniu Luffy i jego załoga wracają na Sabaody, gdzie miasto stało się bardziej chaotyczne. Każdy prezentuje efekty treningu: Luffy poskramia bestie, Zoro kontroluje Enmę, a Franky przebudowuje swoje ciało. Muszą stawić czoła grupie piratów podszywających się pod Słomkowych Kapeluszy i dwóm Pacifistom. Po zwycięstwie spotykają Rayleigha, który odnawia statek. Cała załoga gromadzi się ponownie, pozbywa się śledzącego ich Caribou i przygotowuje się do zanurzenia w kierunku Rybiej Wyspy.",
+      "key_events": [
+        "Reunion załogi po dwuletnim treningu, prezentacja nowych umiejętności (Haki, technologia Franky’ego).",
+        "Konfrontacja i pokonanie Fałszywych Słomkowych Kapeluszy oraz dwóch Pacifistów.",
+        "Rayleigh kończy powlekanie Thousand Sunny żywicą; załoga wyrusza w stronę Fish‑Man Island."
+      ],
+      "sources": [
+        "Arcs statistics potwierdzają, że Return to Sabaody obejmuje 5 rozdziałów (598–602) i 6 odcinków anime (517–522):contentReference[oaicite:0]{index=0}."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fish‑Man Island Arc",
+      "anime_episodes": "523–541 and 543–574",
+      "manga_chapters": "603–653",
+      "main_locations": [
+        "Fish‑Man Island",
+        "Ryugu Palace",
+        "Gyoncorde Plaza",
+        "Forest of the Sea"
+      ],
+      "key_characters": [
+        "Luffy",
+        "Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Chopper",
+        "Robin",
+        "Franky",
+        "Brook",
+        "Jinbe",
+        "Shirahoshi",
+        "Neptune",
+        "Hody Jones",
+        "Vander Decken IX",
+        "New Fish‑Man Pirates",
+        "Fisher Tiger (w retrospekcjach)",
+        "Queen Otohime (w retrospekcjach)"
+      ],
+      "summary": "Słomkowi docierają do podwodnego królestwa Fish‑Man Island. Dowiadują się o nierównościach między ludźmi a ryboludźmi oraz historii bohaterów Fishera Tigera i królowej Otohime. W tym czasie Hody Jones, przywódca nowych piratów ryboludzi, planuje przewrót wspierany przez Vander Deckena, który obdarował Shirahoshi zaklęciem raniącym ją za miłość. Luffy i załoga stają po stronie króla Neptuna oraz byłego Warlorda Jinbe. Po serii walk, w których Luffy używa Gear Second i Gear Third pod wodą, a załoga demonstruje nowe techniki, bunt zostaje stłumiony. Odkrywa się, że Shirahoshi jest starożytną bronią Poseidon (może kontrolować morskie królestwa), a Luffy obiecuje ją chronić. Po zwycięstwie Luffy oświadcza Big Mom, że przestaje płacić jej haracz w słodyczach i zaczyna z nią wojnę.",
+      "key_events": [
+        "Spotkanie Jinbe i Shirahoshi; ujawnienie, że Jinbe chce dołączyć, ale czeka, aż Luffy rozwiąże sprawy z Big Mom.",
+        "Historia Fishera Tigera i królowej Otohime wyjaśnia cykl nienawiści między ludźmi a ryboludźmi; wprowadza ideę łączącej przepowiedni.",
+        "Bitwa przeciwko Hody’emu i jego armii dopalanej narkotykiem Energy Steroid; Luffy przysięga chronić wyspę i ogłasza wojnę Big Mom."
+      ],
+      "sources": [
+        "Fish‑Man Island Arc obejmuje tomy 61–66, rozdziały 603–653 oraz odcinki 523–541 i 543–574:contentReference[oaicite:1]{index=1}.",
+        "Saga Fish‑Man Island liczy 6 tomów, 56 rozdziałów i 57 odcinków:contentReference[oaicite:2]{index=2}."
+      ]
+    }
+  ]
+}
